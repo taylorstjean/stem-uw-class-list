@@ -11,35 +11,35 @@
     },
     "E E 201": {
         "REQS": "CSE 122, CSE 123, CSE 142, or CSE 143, any of which may be taken concurrentlyView course details in MyPlan: E E 201",
-        "C_NAME": "omputer Hardware Skills (1) RSN"
+        "C_NAME": "Computer Hardware Skills (1) RSN"
     },
     "E E 205": {
         "REQS": "either MATH 126 or MATH 136; and either PHYS 122 or PHYS 142",
-        "C_NAME": "ntroduction to Signal Conditioning (4) RSN"
+        "C_NAME": "Introduction to Signal Conditioning (4) RSN"
     },
     "E E 215": {
         "REQS": "either MATH 136, or MATH 126 and either MATH 207, MATH 307, or AMATH 351, any of which may be taken concurrently; and either PHYS 122 or PHYS 142",
-        "C_NAME": "undamentals of Electrical Engineering (4) NSc"
+        "C_NAME": "Fundamentals of Electrical Engineering (4) NSc"
     },
     "E E 233": {
         "REQS": "E E 215",
-        "C_NAME": "ircuit Theory (5)"
+        "C_NAME": "Circuit Theory (5)"
     },
     "E E 241": {
         "REQS": "either CSE 142, CSE 143, or CSE 160",
-        "C_NAME": "rogramming for Signal and Information Processing Applications (2)"
+        "C_NAME": "Programming for Signal and Information Processing Applications (2)"
     },
     "E E 242": {
         "REQS": "either MATH 136,  MATH 207, or AMATH 351, any of which may be taken concurrently; and either E E 241, which may be taken concurrently, or CSE 163",
-        "C_NAME": "ignal Processing I (5)"
+        "C_NAME": "Signal Processing I (5)"
     },
     "E E 271": {
         "REQS": "either CSE 121, CSE 122, CSE 123, CSE 142, or CSE 143",
-        "C_NAME": "igital Circuits and Systems (5)"
+        "C_NAME": "Digital Circuits and Systems (5)"
     },
     "E E 280": {
         "REQS": "PHYS 122",
-        "C_NAME": "xploring Devices (4)"
+        "C_NAME": "Exploring Devices (4)"
     },
     "E E 299": {
         "REQS": "NONE",
@@ -47,39 +47,39 @@
     },
     "E E 321": {
         "REQS": "either MATH 126 or MATH 136; and CSE 143",
-        "C_NAME": "omputing Fundamentals (4) RSN"
+        "C_NAME": "Computing Fundamentals (4) RSN"
     },
     "E E 331": {
         "REQS": "1.0 in E E 233",
-        "C_NAME": "evices and Circuits I (5)"
+        "C_NAME": "Devices and Circuits I (5)"
     },
     "E E 332": {
         "REQS": "1.0 in E E 331",
-        "C_NAME": "evices and Circuits II (5)"
+        "C_NAME": "Devices and Circuits II (5)"
     },
     "E E 342": {
         "REQS": "E E 242",
-        "C_NAME": "ignal Processing II (4)"
+        "C_NAME": "Signal Processing II (4)"
     },
     "E E 351": {
         "REQS": "a minimum grade of 1.0 in E E 215",
-        "C_NAME": "nergy Systems (5)"
+        "C_NAME": "Energy Systems (5)"
     },
     "E E 361": {
         "REQS": "a minimum grade of 1.0 in E E 233; either PHYS 123 or PHYS 143; and either MATH 224 or MATH 324",
-        "C_NAME": "pplied Electromagnetics (5)"
+        "C_NAME": "Applied Electromagnetics (5)"
     },
     "E E 371": {
         "REQS": "either E E 205 or E E 215; either E E 271 or CSE 369",
-        "C_NAME": "esign of Digital Circuits and Systems (5)"
+        "C_NAME": "Design of Digital Circuits and Systems (5)"
     },
     "E E 391": {
         "REQS": "E E 235 or E E 241; and MATH 126 or MATH 136",
-        "C_NAME": "robability for Information and Communication Engineering (4)"
+        "C_NAME": "Probability for Information and Communication Engineering (4)"
     },
     "E E 393": {
         "REQS": "either ENGR 231 or HCDE 231",
-        "C_NAME": "dvanced Technical Communication (4)"
+        "C_NAME": "Advanced Technical Communication (4)"
     },
     "E E 398": {
         "REQS": "NONE",
@@ -103,203 +103,203 @@
     },
     "E E 416": {
         "REQS": "either E E 242 or E E 341; either STAT 390, MATH 394/STAT 394, or IND E 315",
-        "C_NAME": "andom Signals for Communications and Signal Processing (4)"
+        "C_NAME": "Random Signals for Communications and Signal Processing (4)"
     },
     "E E 417": {
         "REQS": "E E 416View course details in MyPlan: E E 417",
-        "C_NAME": "odern Wireless Communications (4)"
+        "C_NAME": "Modern Wireless Communications (4)"
     },
     "E E 418": {
         "REQS": "CSE 163 or E E 241; either MATH 136, MATH 208, or MATH 308; and either IND E 315, MATH 394/STAT 394, or STAT 390",
-        "C_NAME": "etwork Security and Cryptography (4)"
+        "C_NAME": "Network Security and Cryptography (4)"
     },
     "E E 419": {
         "REQS": "CSE 143; either STAT 390, STAT 391, or IND E 315",
-        "C_NAME": "ntroduction to Computer-Communication Networks (4)"
+        "C_NAME": "Introduction to Computer-Communication Networks (4)"
     },
     "E E 420": {
         "REQS": "1.0 in E E 417 which may be taken concurrently",
-        "C_NAME": "esign in Communications (4)"
+        "C_NAME": "Design in Communications (4)"
     },
     "E E 421": {
         "REQS": "either MATH 135, MATH 207, MATH 307, or AMATH 351; recommended: Calculus through differential equations",
-        "C_NAME": "uantum Mechanics for Engineers (3)"
+        "C_NAME": "Quantum Mechanics for Engineers (3)"
     },
     "E E 423": {
         "REQS": "either MATH 136, MATH 207, MATH 307, AMATH 351, or CSE 311; and either MATH 208, MATH 308, or AMATH 352",
-        "C_NAME": "ntroduction to Synthetic Biology (3)"
+        "C_NAME": "Introduction to Synthetic Biology (3)"
     },
     "E E 424": {
         "REQS": "E E 423/BIOEN 423/CHEM E 476/CSE 486",
-        "C_NAME": "dvanced Systems and Synthetic Biology (3)"
+        "C_NAME": "Advanced Systems and Synthetic Biology (3)"
     },
     "E E 425": {
         "REQS": "E E 423/BIOEN 423/CHEM E 476/CSE 486; and either CHEM 142, CHEM 143, or CHEM 145",
-        "C_NAME": "aboratory Methods in Synthetic Biology (4)"
+        "C_NAME": "Laboratory Methods in Synthetic Biology (4)"
     },
     "E E 433": {
         "REQS": "1.0 in E E 332",
-        "C_NAME": "nalog Circuit Design (5)"
+        "C_NAME": "Analog Circuit Design (5)"
     },
     "E E 436": {
         "REQS": "E E 332",
-        "C_NAME": "edical Instrumentation (4)"
+        "C_NAME": "Medical Instrumentation (4)"
     },
     "E E 437": {
         "REQS": "E E 331 and E E 473",
-        "C_NAME": "ntegrated Systems Capstone (5)"
+        "C_NAME": "Integrated Systems Capstone (5)"
     },
     "E E 438": {
         "REQS": "either E E 433 or E E 436",
-        "C_NAME": "nstrumentation Design Project Capstone (5)"
+        "C_NAME": "Instrumentation Design Project Capstone (5)"
     },
     "E E 440": {
         "REQS": "E E 341 or E E 342",
-        "C_NAME": "ntroduction to Digital Imaging Systems (4)"
+        "C_NAME": "Introduction to Digital Imaging Systems (4)"
     },
     "E E 442": {
         "REQS": "a minimum grade of 1.0 in either E E 341 or E E 342",
-        "C_NAME": "igital Signals and Filtering (3)"
+        "C_NAME": "Digital Signals and Filtering (3)"
     },
     "E E 443": {
         "REQS": "a minimum grade of 1.0 in E E 242; MATH 136 or MATH 208; and either IND E 315, MATH 394/STAT 394, or STAT 390",
-        "C_NAME": "achine Learning for Signal Processing Applications (4)"
+        "C_NAME": "Machine Learning for Signal Processing Applications (4)"
     },
     "E E 445": {
         "REQS": "either MATH 224 or MATH 324; either MATH 136, MATH 208, MATH 308, or AMATH 352; and either E E 235, E E 241, or CSE 163.\n\n\nView course details in MyPlan: E E 445",
-        "C_NAME": "undamentals of Optimization and Machine Learning (4)"
+        "C_NAME": "Fundamentals of Optimization and Machine Learning (4)"
     },
     "E E 447": {
         "REQS": "E E 233; either E E 235 or E E 242; and either MATH 136,  MATH 208, or MATH 308",
-        "C_NAME": "ontrol System Analysis I (4)"
+        "C_NAME": "Control System Analysis I (4)"
     },
     "E E 448": {
         "REQS": "E E 447",
-        "C_NAME": "ystems, Controls, and Robotics Capstone (4-)"
+        "C_NAME": "Systems, Controls, and Robotics Capstone (4-)"
     },
     "E E 449": {
         "REQS": "E E 448",
-        "C_NAME": "ystems, Controls, and Robotics Capstone (-4)"
+        "C_NAME": "Systems, Controls, and Robotics Capstone (-4)"
     },
     "E E 451": {
         "REQS": "E E 351",
-        "C_NAME": "ind Energy (4)"
+        "C_NAME": "Wind Energy (4)"
     },
     "E E 452": {
         "REQS": "a minimum grade of 1.0 in E E 233",
-        "C_NAME": "ower Electronics Design (5)"
+        "C_NAME": "Power Electronics Design (5)"
     },
     "E E 453": {
         "REQS": "a minimum grade of 1.0 in E E 452; and a minimum grade of 1.0 in  E E 458",
-        "C_NAME": "lectric Drives (5)"
+        "C_NAME": "Electric Drives (5)"
     },
     "E E 454": {
         "REQS": "1.0 in E E 351",
-        "C_NAME": "ower System Analysis (4)"
+        "C_NAME": "Power System Analysis (4)"
     },
     "E E 455": {
         "REQS": "1.0 in E E 351",
-        "C_NAME": "ower System Dynamics and Protection (4)"
+        "C_NAME": "Power System Dynamics and Protection (4)"
     },
     "E E 456": {
         "REQS": "either 1.0 in E E 454 or 1.0 in E E 455",
-        "C_NAME": "omputer-Aided Design in Power Systems (4)"
+        "C_NAME": "Computer-Aided Design in Power Systems (4)"
     },
     "E E 457": {
         "REQS": "1.0 in E E 351",
-        "C_NAME": "lectric Energy Distribution Systems (4)"
+        "C_NAME": "Electric Energy Distribution Systems (4)"
     },
     "E E 458": {
         "REQS": "E E 447 and E E 452; recommended: circuits; control systems; and power electronics",
-        "C_NAME": "ower Electronics Controls (5)"
+        "C_NAME": "Power Electronics Controls (5)"
     },
     "E E 460": {
         "REQS": "either BIOL 130, BIOL 162, or BIOL 220; and either MATH 208, AMATH 301, or AMATH 352",
-        "C_NAME": "eural Engineering (3)"
+        "C_NAME": "Neural Engineering (3)"
     },
     "E E 461": {
         "REQS": "BIOEN 460/E E 460",
-        "C_NAME": "eural Engineering Tech Studio (4)"
+        "C_NAME": "Neural Engineering Tech Studio (4)"
     },
     "E E 462": {
         "REQS": "minimum grade of 1.0 in E E 361",
-        "C_NAME": "lectromagnetics I: Microwave Engineering (4)"
+        "C_NAME": "Electromagnetics I: Microwave Engineering (4)"
     },
     "E E 463": {
         "REQS": "E E 361; E E 332, which may be taken concurrently",
-        "C_NAME": "icrowave Electronic Design (4)"
+        "C_NAME": "Microwave Electronic Design (4)"
     },
     "E E 464": {
         "REQS": "1.0 in E E 361",
-        "C_NAME": "ntennas: Analysis and Design (4)"
+        "C_NAME": "Antennas: Analysis and Design (4)"
     },
     "E E 466": {
         "REQS": "either BIOL 130, BIOL 162, BIOL 220, AMATH 342; and either MATH 208, AMATH 301, or AMATH 352.\n; recommended: courses in scientific computing and matrix manipulations in Matlab; and courses in neural signal processing and data analysis",
-        "C_NAME": "eural Computation and Engineering Laboratory (4) NW"
+        "C_NAME": "Neural Computation and Engineering Laboratory (4) NW"
     },
     "E E 468": {
         "REQS": "E E 205 or E E 215; CSE 373; CSE 374",
-        "C_NAME": "omputer, Network, and Embedded Security (4) RSN"
+        "C_NAME": "Computer, Network, and Embedded Security (4) RSN"
     },
     "E E 469": {
         "REQS": "either E E 271 or CSE 369; CSE 143 ",
-        "C_NAME": "omputer Architecture I (5)"
+        "C_NAME": "Computer Architecture I (5)"
     },
     "E E 470": {
         "REQS": "either CSE 469 or E E 469",
-        "C_NAME": "omputer Architecture II (4)"
+        "C_NAME": "Computer Architecture II (4)"
     },
     "E E 472": {
         "REQS": "CSE 373 and CSE 374",
-        "C_NAME": "eal-Time and Embedded Operating Systems (4) RSN"
+        "C_NAME": "Real-Time and Embedded Operating Systems (4) RSN"
     },
     "E E 473": {
         "REQS": "1.0 in E E 332",
-        "C_NAME": "inear Integrated Circuits (5)"
+        "C_NAME": "Linear Integrated Circuits (5)"
     },
     "E E 474": {
         "REQS": "CSE 123 or CSE 143 ",
-        "C_NAME": "ntroduction to Embedded Systems (4)"
+        "C_NAME": "Introduction to Embedded Systems (4)"
     },
     "E E 475": {
         "REQS": "either E E 271 or CSE 369; either CSE 466, E E 472, or CSE 474/E E 474",
-        "C_NAME": "mbedded Systems Capstone (5)"
+        "C_NAME": "Embedded Systems Capstone (5)"
     },
     "E E 476": {
         "REQS": "E E 215; and either E E 271 or CSE 369; recommended: basic circuit theory and basic digital design experience",
-        "C_NAME": "ntroduction to Very Large-Scale Integrated Design (5)"
+        "C_NAME": "Introduction to Very Large-Scale Integrated Design (5)"
     },
     "E E 477": {
         "REQS": "either E E 371/CSE 371, or E E 469/CSE 469",
-        "C_NAME": "LSI II (5)"
+        "C_NAME": "VLSI II (5)"
     },
     "E E 478": {
         "REQS": "E E 331; E E 332, which may be taken concurrently; E E 476; and E E 477; recommended: introduction to VLSI design and knowledge of ASIC design flows.\nView course details in MyPlan: E E 478",
-        "C_NAME": "apstone Integrated Digital Design Projects (5)"
+        "C_NAME": "Capstone Integrated Digital Design Projects (5)"
     },
     "E E 479": {
         "REQS": "CSE 373 and CSE 374",
-        "C_NAME": "igh-Performance Graphics Processing Unit Computing (4) RSN"
+        "C_NAME": "High-Performance Graphics Processing Unit Computing (4) RSN"
     },
     "E E 482": {
         "REQS": "E E 331",
-        "C_NAME": "emiconductor Devices (4)"
+        "C_NAME": "Semiconductor Devices (4)"
     },
     "E E 484": {
         "REQS": "E E 331",
-        "C_NAME": "ensors and Sensor Systems (4)"
+        "C_NAME": "Sensors and Sensor Systems (4)"
     },
     "E E 486": {
         "REQS": "EE 331 or MSE 351",
-        "C_NAME": "undamentals of Integrated Circuit Technology (3)"
+        "C_NAME": "Fundamentals of Integrated Circuit Technology (3)"
     },
     "E E 487": {
         "REQS": "either E E 361, PHYS 123, or PHYS 143",
-        "C_NAME": "ntroduction to Photonics (4)"
+        "C_NAME": "Introduction to Photonics (4)"
     },
     "E E 488": {
         "REQS": "E E 485 or E E 487",
-        "C_NAME": "dvanced Photonics (4)"
+        "C_NAME": "Advanced Photonics (4)"
     },
     "E E 490": {
         "REQS": "NONE",
@@ -323,7 +323,7 @@
     },
     "E E 498": {
         "REQS": "E E 497",
-        "C_NAME": "ngineering Entrepreneurial Capstone (-4)"
+        "C_NAME": "Engineering Entrepreneurial Capstone (-4)"
     },
     "E E 499": {
         "REQS": "NONE",
@@ -347,15 +347,15 @@
     },
     "E E 505": {
         "REQS": "graduate standing and understanding of probability at the level of E E 416",
-        "C_NAME": "robability and Random Processes (4)"
+        "C_NAME": "Probability and Random Processes (4)"
     },
     "E E 506": {
         "REQS": "E E 505",
-        "C_NAME": "undamentals of Wireless Communication (4)"
+        "C_NAME": "Fundamentals of Wireless Communication (4)"
     },
     "E E 508": {
         "REQS": "E E 505",
-        "C_NAME": "tochastic Processes in Engineering (3)"
+        "C_NAME": "Stochastic Processes in Engineering (3)"
     },
     "E E 510": {
         "REQS": "NONE",
@@ -363,63 +363,63 @@
     },
     "E E 511": {
         "REQS": "either E E 505 or CSE 515",
-        "C_NAME": "ntroduction to Statistical Learning (4)"
+        "C_NAME": "Introduction to Statistical Learning (4)"
     },
     "E E 512": {
         "REQS": "E E 508; E E 511",
-        "C_NAME": "raphical Models in Pattern Recognition (4)"
+        "C_NAME": "Graphical Models in Pattern Recognition (4)"
     },
     "E E 514": {
         "REQS": "E E 505",
-        "C_NAME": "nformation Theory I (4)"
+        "C_NAME": "Information Theory I (4)"
     },
     "E E 515": {
         "REQS": "E E 514",
-        "C_NAME": "nformation Theory II (4)"
+        "C_NAME": "Information Theory II (4)"
     },
     "E E 516": {
         "REQS": "E E 505; E E 518",
-        "C_NAME": "omputer Speech Processing (4)"
+        "C_NAME": "Computer Speech Processing (4)"
     },
     "E E 517": {
         "REQS": "E E 505",
-        "C_NAME": "ontinuous-Space Language Processing (4)"
+        "C_NAME": "Continuous-Space Language Processing (4)"
     },
     "E E 518": {
         "REQS": "E E 442; recommended: Cannot be taken for credit if credit received for EE P 518",
-        "C_NAME": "igital Signal Processing (4)"
+        "C_NAME": "Digital Signal Processing (4)"
     },
     "E E 519": {
         "REQS": "E E 505",
-        "C_NAME": "tochastic Analysis of Data From Physical Systems (4)"
+        "C_NAME": "Stochastic Analysis of Data From Physical Systems (4)"
     },
     "E E 520": {
         "REQS": "either STAT 342, STAT 390, STAT 509/CS&SS 509/ECON 580, or IND E 315",
-        "C_NAME": "pectral Analysis of Time Series (4)"
+        "C_NAME": "Spectral Analysis of Time Series (4)"
     },
     "E E 521": {
         "REQS": "MATH 207 or AMATH 351",
-        "C_NAME": "uantum Mechanics for Engineers (4)"
+        "C_NAME": "Quantum Mechanics for Engineers (4)"
     },
     "E E 522": {
         "REQS": "either PHYS 521, CHEM 561/MSE 561, or permission of instructor; recommended: practical experience with cloud-based quantum processors",
-        "C_NAME": "uantum Information Practicum (4)"
+        "C_NAME": "Quantum Information Practicum (4)"
     },
     "E E 523": {
         "REQS": "either MATH 136, MATH 207, MATH 307, AMATH 351, or CSE 311; and either MATH 208, MATH 308, or AMATH 352",
-        "C_NAME": "ntroduction to Synthetic Biology (3)"
+        "C_NAME": "Introduction to Synthetic Biology (3)"
     },
     "E E 524": {
         "REQS": "E E 523/BIOEN 523/CHEM E 576/CSE 586/MOLENG 525",
-        "C_NAME": "dvanced Systems and Synthetic Biology (3)"
+        "C_NAME": "Advanced Systems and Synthetic Biology (3)"
     },
     "E E 525": {
         "REQS": "either E E 371/CSE 371, or E E 469/CSE 469",
-        "C_NAME": "LSI II (5)"
+        "C_NAME": "VLSI II (5)"
     },
     "E E 526": {
         "REQS": "E E 331; E E 332, which may be taken concurrently; E E 476; and either E E 477 or E E 525; recommended: introduction to VLSI design and knowledge of application-specific integrated circuit (ASIC) design flows",
-        "C_NAME": "apstone Integrated Digital Design Projects (5)"
+        "C_NAME": "Capstone Integrated Digital Design Projects (5)"
     },
     "E E 527": {
         "REQS": "NONE",
@@ -427,19 +427,19 @@
     },
     "E E 528": {
         "REQS": "MATH 207; MATH 208; and E E 521",
-        "C_NAME": "uantum Optics for Quantum Information Applications (4)"
+        "C_NAME": "Quantum Optics for Quantum Information Applications (4)"
     },
     "E E 529": {
         "REQS": "E E 485",
-        "C_NAME": "emiconductor Optoelectronics (4)"
+        "C_NAME": "Semiconductor Optoelectronics (4)"
     },
     "E E 530": {
         "REQS": "college-level coursework in Fourier theory and linear algebra; and either STAT 390/MATH 390, STAT 509/CS&SS 509/ECON 580, STAT 513, or IND E 315.\n\n ",
-        "C_NAME": "avelets: Data Analysis, Algorithms, and Theory (3)"
+        "C_NAME": "Wavelets: Data Analysis, Algorithms, and Theory (3)"
     },
     "E E 531": {
         "REQS": "E E 482",
-        "C_NAME": "emiconductor Devices and Device Simulation (4)"
+        "C_NAME": "Semiconductor Devices and Device Simulation (4)"
     },
     "E E 532": {
         "REQS": "NONE",
@@ -447,19 +447,19 @@
     },
     "E E 533": {
         "REQS": "either E E 452 or E E 532",
-        "C_NAME": "ower Electronics Contols (5)"
+        "C_NAME": "Power Electronics Contols (5)"
     },
     "E E 534": {
         "REQS": "a minimum grade of 1.0 in either E E 458 or E E 533",
-        "C_NAME": "lectric Drives (5)"
+        "C_NAME": "Electric Drives (5)"
     },
     "E E 535": {
         "REQS": "either E E 361, PHYS 321, or equivalent course or experience with nanophotonics",
-        "C_NAME": "pplied Nanophotonics (4)"
+        "C_NAME": "Applied Nanophotonics (4)"
     },
     "E E 536": {
         "REQS": "E E 433",
-        "C_NAME": "esign of Analog Integrated Circuits and Systems (4)"
+        "C_NAME": "Design of Analog Integrated Circuits and Systems (4)"
     },
     "E E 537": {
         "REQS": "NONE",
@@ -475,31 +475,31 @@
     },
     "E E 541": {
         "REQS": "either E E 271or CSE 370; CSE 143",
-        "C_NAME": "utomatic Layout of Integrated Circuits (4)"
+        "C_NAME": "Automatic Layout of Integrated Circuits (4)"
     },
     "E E 542": {
         "REQS": "E E 478",
-        "C_NAME": "dvanced Embedded Systems Design (5)"
+        "C_NAME": "Advanced Embedded Systems Design (5)"
     },
     "E E 543": {
         "REQS": "linear algebra",
-        "C_NAME": "odels of Robot Manipulation (4)"
+        "C_NAME": "Models of Robot Manipulation (4)"
     },
     "E E 546": {
         "REQS": "permission of instructor",
-        "C_NAME": "dvanced Topics in Control System Theory (1-5, max. 16)"
+        "C_NAME": "Advanced Topics in Control System Theory (1-5, max. 16)"
     },
     "E E 547": {
         "REQS": "E E 510/A A 510/CHEM E 510/M E 510",
-        "C_NAME": "inear Systems Theory (4)"
+        "C_NAME": "Linear Systems Theory (4)"
     },
     "E E 548": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "inear Multivariable Control (3)"
+        "C_NAME": "Linear Multivariable Control (3)"
     },
     "E E 549": {
         "REQS": "either A A 547, E E 547, or M E 547",
-        "C_NAME": "stimation and System Identification (3)"
+        "C_NAME": "Estimation and System Identification (3)"
     },
     "E E 550": {
         "REQS": "NONE",
@@ -507,11 +507,11 @@
     },
     "E E 551": {
         "REQS": "E E 351",
-        "C_NAME": "ind Energy (4)"
+        "C_NAME": "Wind Energy (4)"
     },
     "E E 552": {
         "REQS": "E E 351 and E E 455",
-        "C_NAME": "ower Systems Dynamics and Control (4)"
+        "C_NAME": "Power Systems Dynamics and Control (4)"
     },
     "E E 553": {
         "REQS": "NONE",
@@ -519,7 +519,7 @@
     },
     "E E 554": {
         "REQS": "E E 456",
-        "C_NAME": "arge Electric Energy Systems Analysis (4)"
+        "C_NAME": "Large Electric Energy Systems Analysis (4)"
     },
     "E E 557": {
         "REQS": "NONE",
@@ -539,15 +539,15 @@
     },
     "E E 561": {
         "REQS": "BIOEN 560 ",
-        "C_NAME": "eural Engineering Tech Studio (4)"
+        "C_NAME": "Neural Engineering Tech Studio (4)"
     },
     "E E 562": {
         "REQS": "CSE 373",
-        "C_NAME": "rtificial Intelligence for Engineers (3)"
+        "C_NAME": "Artificial Intelligence for Engineers (3)"
     },
     "E E 563": {
         "REQS": "E E 510/A A 510/CHEM E 510/M E 510",
-        "C_NAME": "ubmodular Functions, Optimization, and Applications (4)"
+        "C_NAME": "Submodular Functions, Optimization, and Applications (4)"
     },
     "E E 564": {
         "REQS": "NONE",
@@ -555,15 +555,15 @@
     },
     "E E 565": {
         "REQS": "E E 505",
-        "C_NAME": "omputer-Communication Networks I (4)"
+        "C_NAME": "Computer-Communication Networks I (4)"
     },
     "E E 568": {
         "REQS": "permission of instructor",
-        "C_NAME": "igital Image Processing (4)"
+        "C_NAME": "Digital Image Processing (4)"
     },
     "E E 572": {
         "REQS": "E E 361",
-        "C_NAME": "lectromagnetics I: Microwave Engineering (4)"
+        "C_NAME": "Electromagnetics I: Microwave Engineering (4)"
     },
     "E E 574": {
         "REQS": "NONE",
@@ -575,15 +575,15 @@
     },
     "E E 576": {
         "REQS": "solid knowledge of linear algebra; good programming skills",
-        "C_NAME": "omputer Vision (3)"
+        "C_NAME": "Computer Vision (3)"
     },
     "E E 577": {
         "REQS": "CSE 576/E E 576",
-        "C_NAME": "pecial Topics in Computer Vision (3)"
+        "C_NAME": "Special Topics in Computer Vision (3)"
     },
     "E E 578": {
         "REQS": "A A 510, CHEM E 510, E E 510, or M E 510",
-        "C_NAME": "onvex Optimization (4)"
+        "C_NAME": "Convex Optimization (4)"
     },
     "E E 579": {
         "REQS": "NONE",
@@ -595,15 +595,15 @@
     },
     "E E 581": {
         "REQS": "AA/EE 447 or ME 471",
-        "C_NAME": "igital Control System Design (4)"
+        "C_NAME": "Digital Control System Design (4)"
     },
     "E E 582": {
         "REQS": "A A 447/E E 447/ M E 471",
-        "C_NAME": "ntroduction to Discrete Event Systems (3)"
+        "C_NAME": "Introduction to Discrete Event Systems (3)"
     },
     "E E 583": {
         "REQS": "A A 447/E E 447/M E 471",
-        "C_NAME": "onlinear Control Systems (3)"
+        "C_NAME": "Nonlinear Control Systems (3)"
     },
     "E E 585": {
         "REQS": "NONE",
@@ -615,11 +615,11 @@
     },
     "E E 587": {
         "REQS": "either EE 361, PHYS 123, or PHYS 143; recommended: basic principles of electromagnetism; complex numbers and functions; introductory differential and integral calculus; linear differential equations.\n\nView course details in MyPlan: E E 587",
-        "C_NAME": "ntroduction to Photonics (4)"
+        "C_NAME": "Introduction to Photonics (4)"
     },
     "E E 588": {
         "REQS": "either E E 485, E E 487, or E E 587",
-        "C_NAME": "dvanced Photonics (4)"
+        "C_NAME": "Advanced Photonics (4)"
     },
     "E E 589": {
         "REQS": "NONE",
@@ -635,11 +635,11 @@
     },
     "E E 593": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "eedforward Control (3)"
+        "C_NAME": "Feedforward Control (3)"
     },
     "E E 594": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "obust Control (3)"
+        "C_NAME": "Robust Control (3)"
     },
     "E E 595": {
         "REQS": "NONE",
@@ -651,7 +651,7 @@
     },
     "E E 597": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "etworked Dynamics Systems (3)"
+        "C_NAME": "Networked Dynamics Systems (3)"
     },
     "E E 598": {
         "REQS": "NONE",
@@ -659,7 +659,7 @@
     },
     "E E 599": {
         "REQS": "permission of instructor",
-        "C_NAME": "pecial Projects in Electrical Engineering (1-5, max. 15)"
+        "C_NAME": "Special Projects in Electrical Engineering (1-5, max. 15)"
     },
     "E E 600": {
         "REQS": "NONE",
@@ -675,103 +675,103 @@
     },
     "A E 501": {
         "REQS": "permission of instructor",
-        "C_NAME": "nalytical Methods for Aerospace Engineering (4)"
+        "C_NAME": "Analytical Methods for Aerospace Engineering (4)"
     },
     "A E 510": {
         "REQS": "A E 501",
-        "C_NAME": "inear Systems Theory (4)"
+        "C_NAME": "Linear Systems Theory (4)"
     },
     "A E 511": {
         "REQS": "A E 501",
-        "C_NAME": "lassical Control Theory (4)"
+        "C_NAME": "Classical Control Theory (4)"
     },
     "A E 512": {
         "REQS": "A E 501",
-        "C_NAME": "ynamics, Stability, and Control of Vehicles (4)"
+        "C_NAME": "Dynamics, Stability, and Control of Vehicles (4)"
     },
     "A E 513": {
         "REQS": "A E 510 ",
-        "C_NAME": "ultivariable Control (4)"
+        "C_NAME": "Multivariable Control (4)"
     },
     "A E 514": {
         "REQS": "A E 510\n ",
-        "C_NAME": "stimation Theory (4)"
+        "C_NAME": "Estimation Theory (4)"
     },
     "A E 519": {
         "REQS": "A E 501",
-        "C_NAME": "pecial Topics in Aerospace Engineering: Controls (4, max. 8)"
+        "C_NAME": "Special Topics in Aerospace Engineering: Controls (4, max. 8)"
     },
     "A E 520": {
         "REQS": "A E 501",
-        "C_NAME": "undamentals of Fluid Dynamics (4)"
+        "C_NAME": "Fundamentals of Fluid Dynamics (4)"
     },
     "A E 521": {
         "REQS": "A E 520 ",
-        "C_NAME": "ircraft Propulsions (4)"
+        "C_NAME": "Aircraft Propulsions (4)"
     },
     "A E 522": {
         "REQS": "A E 520",
-        "C_NAME": "ocket Propulsion (4)"
+        "C_NAME": "Rocket Propulsion (4)"
     },
     "A E 523": {
         "REQS": "A E 520",
-        "C_NAME": "ircraft Noise (4)"
+        "C_NAME": "Aircraft Noise (4)"
     },
     "A E 524": {
         "REQS": "A E 520 ",
-        "C_NAME": "omputational Aerodynamics (4)"
+        "C_NAME": "Computational Aerodynamics (4)"
     },
     "A E 529": {
         "REQS": "A E 501",
-        "C_NAME": "pecial Topics in Aerospace Engineering: Fluids (4, max. 8)"
+        "C_NAME": "Special Topics in Aerospace Engineering: Fluids (4, max. 8)"
     },
     "A E 540": {
         "REQS": "A E 501",
-        "C_NAME": "echanics of Solids (4)"
+        "C_NAME": "Mechanics of Solids (4)"
     },
     "A E 541": {
         "REQS": "A E 540",
-        "C_NAME": "inite Element Analysis (4)"
+        "C_NAME": "Finite Element Analysis (4)"
     },
     "A E 542": {
         "REQS": "A E 540",
-        "C_NAME": "atigue and Fracture in Aerospace Structures (4)"
+        "C_NAME": "Fatigue and Fracture in Aerospace Structures (4)"
     },
     "A E 543": {
         "REQS": "A E 540\n ",
-        "C_NAME": "tructural Vibrations (4)"
+        "C_NAME": "Structural Vibrations (4)"
     },
     "A E 544": {
         "REQS": "A E 540",
-        "C_NAME": "dditive Manufacturing (4)"
+        "C_NAME": "Additive Manufacturing (4)"
     },
     "A E 549": {
         "REQS": "A E 501",
-        "C_NAME": "pecial Topics in Aerospace Engineering: Structures (4, max. 8)"
+        "C_NAME": "Special Topics in Aerospace Engineering: Structures (4, max. 8)"
     },
     "A E 550": {
         "REQS": "A E 501",
-        "C_NAME": "echanics of Composite Materials (4)"
+        "C_NAME": "Mechanics of Composite Materials (4)"
     },
     "A E 551": {
         "REQS": "A E 550",
-        "C_NAME": "erospace Composite Design I (4)"
+        "C_NAME": "Aerospace Composite Design I (4)"
     },
     "A E 552": {
         "REQS": "A E 550",
-        "C_NAME": "erospace Composite Design II (4)"
+        "C_NAME": "Aerospace Composite Design II (4)"
     },
     "A E 553": {
         "REQS": "A E 550",
-        "C_NAME": "dvanced Composite Structural Analysis (4)"
+        "C_NAME": "Advanced Composite Structural Analysis (4)"
     },
     "A E 554": {
         "REQS": "A E 550",
-        "C_NAME": "anufacture of Aerospace Composites (4)"
+        "C_NAME": "Manufacture of Aerospace Composites (4)"
     },
     "A E 559": {
         "REQS": "A E 501View course details in MyPlan: A E 559",
-        "C_NAME": "pecial Topics in Aerospace Engineering: Composites (4, max. 8)"
+        "C_NAME": "Special Topics in Aerospace Engineering: Composites (4, max. 8)"
     },
     "A E 598": {
         "REQS": "NONE",
@@ -787,11 +787,11 @@
     },
     "A A 210": {
         "REQS": "a minimum grade of 2.0 in either MATH 126 or MATH 136; and a minimum grade of 2.0 in either PHYS 121 or PHYS 141",
-        "C_NAME": "ngineering Statics (4) NSc"
+        "C_NAME": "Engineering Statics (4) NSc"
     },
     "A A 260": {
         "REQS": "a minimum grade of 2.0 in either CHEM 142, CHEM 143, or CHEM 145; a minimum grade of 2.0 in either MATH 126 or MATH 136; and a minimum grade of 2.0 in either PHYS 121 or PHYS 141",
-        "C_NAME": "hermodynamics (4) NSc"
+        "C_NAME": "Thermodynamics (4) NSc"
     },
     "A A 299": {
         "REQS": "NONE",
@@ -799,43 +799,43 @@
     },
     "A A 301": {
         "REQS": "A A 311",
-        "C_NAME": "ompressible Aerodynamics (4)"
+        "C_NAME": "Compressible Aerodynamics (4)"
     },
     "A A 302": {
         "REQS": "A A 311; MATH 207; and either PHYS 123 or PHYS 143",
-        "C_NAME": "ncompressible Aerodynamics (4)"
+        "C_NAME": "Incompressible Aerodynamics (4)"
     },
     "A A 310": {
         "REQS": "M E 230",
-        "C_NAME": "rbital and Space Flight Mechanics (4)"
+        "C_NAME": "Orbital and Space Flight Mechanics (4)"
     },
     "A A 311": {
         "REQS": "M E 230; and A A 260",
-        "C_NAME": "tmospheric Flight Mechanics (4)"
+        "C_NAME": "Atmospheric Flight Mechanics (4)"
     },
     "A A 312": {
         "REQS": "A A 310 and A A 311",
-        "C_NAME": "tructural Vibrations (4)"
+        "C_NAME": "Structural Vibrations (4)"
     },
     "A A 320": {
         "REQS": "PHYS 123 or PHYS 143",
-        "C_NAME": "erospace Instrumentation (3)"
+        "C_NAME": "Aerospace Instrumentation (3)"
     },
     "A A 321": {
         "REQS": "CEE 220; A A 310; A A 311; and A A 320 ",
-        "C_NAME": "erospace Laboratory I (3)"
+        "C_NAME": "Aerospace Laboratory I (3)"
     },
     "A A 322": {
         "REQS": "A A 321",
-        "C_NAME": "erospace Laboratory II (3)"
+        "C_NAME": "Aerospace Laboratory II (3)"
     },
     "A A 331": {
         "REQS": "CEE 220",
-        "C_NAME": "erospace Structures I (4)"
+        "C_NAME": "Aerospace Structures I (4)"
     },
     "A A 332": {
         "REQS": "A A 331",
-        "C_NAME": "erospace Structures II (4)"
+        "C_NAME": "Aerospace Structures II (4)"
     },
     "A A 395": {
         "REQS": "NONE",
@@ -843,11 +843,11 @@
     },
     "A A 402": {
         "REQS": "A A 301 and MATH 224",
-        "C_NAME": "iscous Fluid Mechanics (3)"
+        "C_NAME": "Viscous Fluid Mechanics (3)"
     },
     "A A 405": {
         "REQS": "MATH 224; and either PHYS 123 or PHYS 143",
-        "C_NAME": "ntroduction to Aerospace Plasmas (3)"
+        "C_NAME": "Introduction to Aerospace Plasmas (3)"
     },
     "A A 406": {
         "REQS": "NONE",
@@ -855,35 +855,35 @@
     },
     "A A 410": {
         "REQS": "A A 322; A A 332; A A 447; and A A 460 ",
-        "C_NAME": "ircraft Design I (4-)"
+        "C_NAME": "Aircraft Design I (4-)"
     },
     "A A 411": {
         "REQS": "A A 410",
-        "C_NAME": "ircraft Design II (-4)"
+        "C_NAME": "Aircraft Design II (-4)"
     },
     "A A 419": {
         "REQS": "MATH 207; end either PHYS 123 or PHYS 143",
-        "C_NAME": "erospace Heat Transfer (3)"
+        "C_NAME": "Aerospace Heat Transfer (3)"
     },
     "A A 420": {
         "REQS": "A A 322; A A 332; A A 447; and A A 460 ",
-        "C_NAME": "pacecraft and Space Systems Design I (4-)"
+        "C_NAME": "Spacecraft and Space Systems Design I (4-)"
     },
     "A A 421": {
         "REQS": "A A 420",
-        "C_NAME": "pacecraft and Space System Design II (-4)"
+        "C_NAME": "Spacecraft and Space System Design II (-4)"
     },
     "A A 430": {
         "REQS": "CEE 220",
-        "C_NAME": "inite Element Analysis in Aerospace (3)"
+        "C_NAME": "Finite Element Analysis in Aerospace (3)"
     },
     "A A 447": {
         "REQS": "A A 312 and MATH 208",
-        "C_NAME": "ontrol in Aerospace Systems (4)"
+        "C_NAME": "Control in Aerospace Systems (4)"
     },
     "A A 448": {
         "REQS": "A A 447",
-        "C_NAME": "ontrol Systems Sensors and Actuators (3)"
+        "C_NAME": "Control Systems Sensors and Actuators (3)"
     },
     "A A 449": {
         "REQS": "NONE",
@@ -891,15 +891,15 @@
     },
     "A A 460": {
         "REQS": "A A 301 and A A 302",
-        "C_NAME": "ropulsion (4)"
+        "C_NAME": "Propulsion (4)"
     },
     "A A 461": {
         "REQS": "A A 460",
-        "C_NAME": "ir Breathing Propulsion (3)"
+        "C_NAME": "Air Breathing Propulsion (3)"
     },
     "A A 462": {
         "REQS": "A A 260",
-        "C_NAME": "ocket Propulsion (3)"
+        "C_NAME": "Rocket Propulsion (3)"
     },
     "A A 470": {
         "REQS": "NONE",
@@ -939,7 +939,7 @@
     },
     "A A 508": {
         "REQS": "A A/M E 507 or permission of instructor",
-        "C_NAME": "urbulence (3)"
+        "C_NAME": "Turbulence (3)"
     },
     "A A 510": {
         "REQS": "NONE",
@@ -947,7 +947,7 @@
     },
     "A A 516": {
         "REQS": "A A 447",
-        "C_NAME": "tability and Control of Flight Vehicles (3)"
+        "C_NAME": "Stability and Control of Flight Vehicles (3)"
     },
     "A A 523": {
         "REQS": "NONE",
@@ -967,11 +967,11 @@
     },
     "A A 528": {
         "REQS": "MATH 207 and MATH 208",
-        "C_NAME": "pacecraft Dynamics and Control (3)"
+        "C_NAME": "Spacecraft Dynamics and Control (3)"
     },
     "A A 529": {
         "REQS": "permission",
-        "C_NAME": "pace Propulsion (3)"
+        "C_NAME": "Space Propulsion (3)"
     },
     "A A 530": {
         "REQS": "NONE",
@@ -979,19 +979,19 @@
     },
     "A A 531": {
         "REQS": "A A 530 or permission of instructor",
-        "C_NAME": "uasibrittle Fracture Mechanics and Scaling (3)"
+        "C_NAME": "Quasibrittle Fracture Mechanics and Scaling (3)"
     },
     "A A 532": {
         "REQS": "coursework in mechanics of matierals or permission of instructor",
-        "C_NAME": "echanics of Composite Materials (3)"
+        "C_NAME": "Mechanics of Composite Materials (3)"
     },
     "A A 535": {
         "REQS": "A A 532",
-        "C_NAME": "dvanced Composite Structural Analysis (3)"
+        "C_NAME": "Advanced Composite Structural Analysis (3)"
     },
     "A A 538": {
         "REQS": "coursework in structural analysis; finite elements; and computer programming; or permission of instructor",
-        "C_NAME": "ntroduction to Structural Optimization (3)"
+        "C_NAME": "Introduction to Structural Optimization (3)"
     },
     "A A 540": {
         "REQS": "NONE",
@@ -999,7 +999,7 @@
     },
     "A A 541": {
         "REQS": "A A 540 or permission of instructor",
-        "C_NAME": "inite Element Analysis II (3)"
+        "C_NAME": "Finite Element Analysis II (3)"
     },
     "A A 543": {
         "REQS": "NONE",
@@ -1011,23 +1011,23 @@
     },
     "A A 545": {
         "REQS": "A A 405 or A A 557",
-        "C_NAME": "omputational Methods for Plasmas (3)"
+        "C_NAME": "Computational Methods for Plasmas (3)"
     },
     "A A 546": {
         "REQS": "permission of instructor",
-        "C_NAME": "dvanced Topics in Control System Theory (3)"
+        "C_NAME": "Advanced Topics in Control System Theory (3)"
     },
     "A A 547": {
         "REQS": "E E 510/A A 510/CHEM E 510/M E 510",
-        "C_NAME": "inear Systems Theory (4)"
+        "C_NAME": "Linear Systems Theory (4)"
     },
     "A A 548": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "inear Multivariable Control (3)"
+        "C_NAME": "Linear Multivariable Control (3)"
     },
     "A A 549": {
         "REQS": "either A A 547, E E 547, or M E 547",
-        "C_NAME": "stimation and System Identification (3)"
+        "C_NAME": "Estimation and System Identification (3)"
     },
     "A A 550": {
         "REQS": "NONE",
@@ -1039,15 +1039,15 @@
     },
     "A A 556": {
         "REQS": "ESS 415, or equivalent, or permission of instructor",
-        "C_NAME": "pace and Laboratory Plasma Physics (3)"
+        "C_NAME": "Space and Laboratory Plasma Physics (3)"
     },
     "A A 557": {
         "REQS": "A A 405 or GPHYS 505",
-        "C_NAME": "hysics of Fusion Plasmas (3)"
+        "C_NAME": "Physics of Fusion Plasmas (3)"
     },
     "A A 558": {
         "REQS": "either A A 405, A A 556, A A 557, ESS 576, or GPHYS 537",
-        "C_NAME": "lasma Theory (3)"
+        "C_NAME": "Plasma Theory (3)"
     },
     "A A 559": {
         "REQS": "NONE",
@@ -1055,19 +1055,19 @@
     },
     "A A 560": {
         "REQS": "A A 405 or equivalent",
-        "C_NAME": "lasma Diagnostics (3)"
+        "C_NAME": "Plasma Diagnostics (3)"
     },
     "A A 564": {
         "REQS": "A A 501 or permission of instructor",
-        "C_NAME": "inetic Theory/Radiative Transfer (3)"
+        "C_NAME": "Kinetic Theory/Radiative Transfer (3)"
     },
     "A A 565": {
         "REQS": "completion of or concurrent enrollment in A A 405 or permission of instructor",
-        "C_NAME": "usion Reactor Fundamentals (3)"
+        "C_NAME": "Fusion Reactor Fundamentals (3)"
     },
     "A A 578": {
         "REQS": "A A 510, CHEM E 510, E E 510, or M E 510",
-        "C_NAME": "onvex Optimization (4)"
+        "C_NAME": "Convex Optimization (4)"
     },
     "A A 580": {
         "REQS": "NONE",
@@ -1075,15 +1075,15 @@
     },
     "A A 581": {
         "REQS": "AA/EE 447 or ME 471",
-        "C_NAME": "igital Control System Design (4)"
+        "C_NAME": "Digital Control System Design (4)"
     },
     "A A 582": {
         "REQS": "A A 447/E E 447/ M E 471",
-        "C_NAME": "ntroduction to Discrete Event Systems (3)"
+        "C_NAME": "Introduction to Discrete Event Systems (3)"
     },
     "A A 583": {
         "REQS": "A A 447/E E 447/M E 471",
-        "C_NAME": "onlinear Control Systems (3)"
+        "C_NAME": "Nonlinear Control Systems (3)"
     },
     "A A 585": {
         "REQS": "NONE",
@@ -1103,15 +1103,15 @@
     },
     "A A 593": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "eedforward Control (3)"
+        "C_NAME": "Feedforward Control (3)"
     },
     "A A 594": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "obust Control (3)"
+        "C_NAME": "Robust Control (3)"
     },
     "A A 597": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "etworked Dynamics Systems (3)"
+        "C_NAME": "Networked Dynamics Systems (3)"
     },
     "A A 598": {
         "REQS": "NONE",
@@ -1143,7 +1143,7 @@
     },
     "M E 230": {
         "REQS": "A A 210",
-        "C_NAME": "inematics and Dynamics (4) NSc"
+        "C_NAME": "Kinematics and Dynamics (4) NSc"
     },
     "M E 299": {
         "REQS": "NONE",
@@ -1151,39 +1151,39 @@
     },
     "M E 323": {
         "REQS": "either CHEM 142, CHEM 143, or CHEM 145; either MATH 126 or MATH 136; and either PHYS 121 or PHYS 141",
-        "C_NAME": "ngineering Thermodynamics (5)"
+        "C_NAME": "Engineering Thermodynamics (5)"
     },
     "M E 331": {
         "REQS": "either M E 333 or CEE 342",
-        "C_NAME": "ntroduction to Heat Transfer (4)"
+        "C_NAME": "Introduction to Heat Transfer (4)"
     },
     "M E 333": {
         "REQS": "AMATH 301; M E 323; and either MATH 207 or AMATH 351",
-        "C_NAME": "ntroduction to Fluid Mechanics (5)"
+        "C_NAME": "Introduction to Fluid Mechanics (5)"
     },
     "M E 341": {
         "REQS": "either MATH 112, MATH 124, MATH 134, or Q SCI 291; either CHEM 120, CHEM 142, CHEM 143, CHEM 145, PHYS 114, PHYS 121, or PHYS 141",
-        "C_NAME": "nergy and Environment (3) NW"
+        "C_NAME": "Energy and Environment (3) NW"
     },
     "M E 354": {
         "REQS": "MSE 170, CEE 220",
-        "C_NAME": "echanics of Materials Laboratory (5)"
+        "C_NAME": "Mechanics of Materials Laboratory (5)"
     },
     "M E 355": {
         "REQS": "M E 354",
-        "C_NAME": "ntroduction to Manufacturing Processes (4)"
+        "C_NAME": "Introduction to Manufacturing Processes (4)"
     },
     "M E 356": {
         "REQS": "M E 354",
-        "C_NAME": "achine Design Analysis (4)"
+        "C_NAME": "Machine Design Analysis (4)"
     },
     "M E 373": {
         "REQS": "either AMATH 351 or MATH 207; either AMATH 352 or MATH 208; E E 215; and M E 230",
-        "C_NAME": "ntroduction to System Dynamics (5)"
+        "C_NAME": "Introduction to System Dynamics (5)"
     },
     "M E 374": {
         "REQS": "AMATH 301; M E 373",
-        "C_NAME": "ystems Dynamic Analysis and Design (5)"
+        "C_NAME": "Systems Dynamic Analysis and Design (5)"
     },
     "M E 402": {
         "REQS": "NONE",
@@ -1199,7 +1199,7 @@
     },
     "M E 412": {
         "REQS": "ME 374, or permission of instructor ",
-        "C_NAME": "iomechanics of Movement (3)"
+        "C_NAME": "Biomechanics of Movement (3)"
     },
     "M E 414": {
         "REQS": "NONE",
@@ -1211,23 +1211,23 @@
     },
     "M E 425": {
         "REQS": "M E 323; M E 331",
-        "C_NAME": "VAC Engineering (4)"
+        "C_NAME": "HVAC Engineering (4)"
     },
     "M E 426": {
         "REQS": "M E 333",
-        "C_NAME": "enewable Energy II (3)"
+        "C_NAME": "Renewable Energy II (3)"
     },
     "M E 430": {
         "REQS": "M E 323",
-        "C_NAME": "dvanced Energy Conversion Systems (4)"
+        "C_NAME": "Advanced Energy Conversion Systems (4)"
     },
     "M E 431": {
         "REQS": "M E 333",
-        "C_NAME": "dvanced Fluid Mechanics (4)"
+        "C_NAME": "Advanced Fluid Mechanics (4)"
     },
     "M E 440": {
         "REQS": "M E 354",
-        "C_NAME": "dvanced Mechanics of Materials and Solids (3)"
+        "C_NAME": "Advanced Mechanics of Materials and Solids (3)"
     },
     "M E 445": {
         "REQS": "NONE",
@@ -1239,7 +1239,7 @@
     },
     "M E 459": {
         "REQS": "M E 354; M E 356",
-        "C_NAME": "ntroduction to Fracture Mechanics (3)"
+        "C_NAME": "Introduction to Fracture Mechanics (3)"
     },
     "M E 460": {
         "REQS": "NONE",
@@ -1251,43 +1251,43 @@
     },
     "M E 469": {
         "REQS": "M E 374",
-        "C_NAME": "pplications of Dynamics in Engineering (4)"
+        "C_NAME": "Applications of Dynamics in Engineering (4)"
     },
     "M E 470": {
         "REQS": "M E 373",
-        "C_NAME": "echanical Vibrations (3)"
+        "C_NAME": "Mechanical Vibrations (3)"
     },
     "M E 471": {
         "REQS": "M E 374",
-        "C_NAME": "utomatic Control (4)"
+        "C_NAME": "Automatic Control (4)"
     },
     "M E 473": {
         "REQS": "M E 374",
-        "C_NAME": "nstrumentation (4)"
+        "C_NAME": "Instrumentation (4)"
     },
     "M E 477": {
         "REQS": "M E 374",
-        "C_NAME": "mbedded Computing in Mechanical Systems (4)"
+        "C_NAME": "Embedded Computing in Mechanical Systems (4)"
     },
     "M E 478": {
         "REQS": "M E 123; M E 374; and either MATH 208 or AMATH 352",
-        "C_NAME": "inite Element Analysis (4)"
+        "C_NAME": "Finite Element Analysis (4)"
     },
     "M E 480": {
         "REQS": "M E 123; AMATH 301",
-        "C_NAME": "ntroduction to Computer-Aided Technology (4)"
+        "C_NAME": "Introduction to Computer-Aided Technology (4)"
     },
     "M E 493": {
         "REQS": "M E 123 and M E 354",
-        "C_NAME": "ntroduction to Capstone Design (3)"
+        "C_NAME": "Introduction to Capstone Design (3)"
     },
     "M E 494": {
         "REQS": "M E 493; recommended: M E 355",
-        "C_NAME": "apstone Design I (3-)"
+        "C_NAME": "Capstone Design I (3-)"
     },
     "M E 495": {
         "REQS": "M E 494",
-        "C_NAME": "apstone Design II (-3)"
+        "C_NAME": "Capstone Design II (-3)"
     },
     "M E 496": {
         "REQS": "NONE",
@@ -1303,7 +1303,7 @@
     },
     "M E 500": {
         "REQS": "A A 532",
-        "C_NAME": "dvanced Composite Structural Analysis (3)"
+        "C_NAME": "Advanced Composite Structural Analysis (3)"
     },
     "M E 501": {
         "REQS": "NONE",
@@ -1339,7 +1339,7 @@
     },
     "M E 512": {
         "REQS": "ME 374, or permission of instructor ",
-        "C_NAME": "iomechanics of Movement (3)"
+        "C_NAME": "Biomechanics of Movement (3)"
     },
     "M E 514": {
         "REQS": "NONE",
@@ -1363,11 +1363,11 @@
     },
     "M E 521": {
         "REQS": "M E 323 and graduate standing in mechanical engineering or permission of instructor",
-        "C_NAME": "hermodynamics (3)"
+        "C_NAME": "Thermodynamics (3)"
     },
     "M E 522": {
         "REQS": "M E 521 or permission of instructor",
-        "C_NAME": "hermodynamics (3)"
+        "C_NAME": "Thermodynamics (3)"
     },
     "M E 523": {
         "REQS": "NONE",
@@ -1375,15 +1375,15 @@
     },
     "M E 524": {
         "REQS": "graduate standing in mechanical engineering or permission of instructor",
-        "C_NAME": "ombustion (3)"
+        "C_NAME": "Combustion (3)"
     },
     "M E 525": {
         "REQS": "graduate standing in Engineering, allied field, or permission of instructor",
-        "C_NAME": "pplied Acoustics I (3)"
+        "C_NAME": "Applied Acoustics I (3)"
     },
     "M E 526": {
         "REQS": "ME 525, or permission of instructor",
-        "C_NAME": "pecial Topics in Acoustics (3)"
+        "C_NAME": "Special Topics in Acoustics (3)"
     },
     "M E 527": {
         "REQS": "NONE",
@@ -1403,19 +1403,19 @@
     },
     "M E 531": {
         "REQS": "graduate standing in mechanical engineering or permission of instructor",
-        "C_NAME": "onductive Heat Transfer (3)"
+        "C_NAME": "Conductive Heat Transfer (3)"
     },
     "M E 532": {
         "REQS": "graduate standing or permission of instructor",
-        "C_NAME": "onvective Heat Transfer (3)"
+        "C_NAME": "Convective Heat Transfer (3)"
     },
     "M E 534": {
         "REQS": "M E 507 or permission of instructor",
-        "C_NAME": "luid Mechanics II (3)"
+        "C_NAME": "Fluid Mechanics II (3)"
     },
     "M E 535": {
         "REQS": "permission of instructor",
-        "C_NAME": "omputational Techniques in Mechanical Engineering (3)"
+        "C_NAME": "Computational Techniques in Mechanical Engineering (3)"
     },
     "M E 536": {
         "REQS": "NONE",
@@ -1443,11 +1443,11 @@
     },
     "M E 543": {
         "REQS": "3 credits of graduate level fluid mechanics or permission of instructor",
-        "C_NAME": "luid Turbulence (3)"
+        "C_NAME": "Fluid Turbulence (3)"
     },
     "M E 544": {
         "REQS": "3 credits of turbulence-related coursework",
-        "C_NAME": "dvanced Turbulence Modeling Techniques (3)"
+        "C_NAME": "Advanced Turbulence Modeling Techniques (3)"
     },
     "M E 546": {
         "REQS": "NONE",
@@ -1459,11 +1459,11 @@
     },
     "M E 548": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "inear Multivariable Control (3)"
+        "C_NAME": "Linear Multivariable Control (3)"
     },
     "M E 549": {
         "REQS": "either A A 547, E E 547, or M E 547",
-        "C_NAME": "stimation and System Identification (3)"
+        "C_NAME": "Estimation and System Identification (3)"
     },
     "M E 550": {
         "REQS": "NONE",
@@ -1479,19 +1479,19 @@
     },
     "M E 553": {
         "REQS": "graduate student status or permission of instructor",
-        "C_NAME": "dhesion Mechanics (3)"
+        "C_NAME": "Adhesion Mechanics (3)"
     },
     "M E 555": {
         "REQS": "M E 551 or permission of instructor",
-        "C_NAME": "hermoelasticity (3)"
+        "C_NAME": "Thermoelasticity (3)"
     },
     "M E 556": {
         "REQS": "graduate standing or permission of instructor",
-        "C_NAME": "xperimental Stress Analysis I (3)"
+        "C_NAME": "Experimental Stress Analysis I (3)"
     },
     "M E 557": {
         "REQS": "graduate standing or permission of instructor",
-        "C_NAME": "xperimental Stress Analysis II (3)"
+        "C_NAME": "Experimental Stress Analysis II (3)"
     },
     "M E 559": {
         "REQS": "NONE",
@@ -1507,15 +1507,15 @@
     },
     "M E 563": {
         "REQS": "MSE 475 or M E 450 or equivalent by permission of instructor",
-        "C_NAME": "dvanced Composites: Design and Manufacturing (3)"
+        "C_NAME": "Advanced Composites: Design and Manufacturing (3)"
     },
     "M E 564": {
         "REQS": "graduate standing in mechanical engineering or permission of instructor",
-        "C_NAME": "echanical Engineering Analysis (3)"
+        "C_NAME": "Mechanical Engineering Analysis (3)"
     },
     "M E 565": {
         "REQS": "graduate standing in mechanical engineering or permission of instructor",
-        "C_NAME": "echanical Engineering Analysis (3)"
+        "C_NAME": "Mechanical Engineering Analysis (3)"
     },
     "M E 567": {
         "REQS": "NONE",
@@ -1527,15 +1527,15 @@
     },
     "M E 572": {
         "REQS": "graduate standing or permission of instructor",
-        "C_NAME": "ethodologies for Engineering Design: Conceptual Design (3)"
+        "C_NAME": "Methodologies for Engineering Design: Conceptual Design (3)"
     },
     "M E 574": {
         "REQS": "Introductory computing; graduate standing or permission of instructor; recommended: Some introductory computing experience and graduate standing in engineering ",
-        "C_NAME": "ntroduction to Applied Parallel Computing for Engineers (3)"
+        "C_NAME": "Introduction to Applied Parallel Computing for Engineers (3)"
     },
     "M E 578": {
         "REQS": "A A 510, CHEM E 510, E E 510, or M E 510",
-        "C_NAME": "onvex Optimization (4)"
+        "C_NAME": "Convex Optimization (4)"
     },
     "M E 580": {
         "REQS": "NONE",
@@ -1543,15 +1543,15 @@
     },
     "M E 581": {
         "REQS": "AA/EE 447 or ME 471",
-        "C_NAME": "igital Control System Design (4)"
+        "C_NAME": "Digital Control System Design (4)"
     },
     "M E 582": {
         "REQS": "A A 447/E E 447/ M E 471",
-        "C_NAME": "ntroduction to Discrete Event Systems (3)"
+        "C_NAME": "Introduction to Discrete Event Systems (3)"
     },
     "M E 583": {
         "REQS": "A A 447/E E 447/M E 471",
-        "C_NAME": "onlinear Control Systems (3)"
+        "C_NAME": "Nonlinear Control Systems (3)"
     },
     "M E 585": {
         "REQS": "NONE",
@@ -1559,15 +1559,15 @@
     },
     "M E 586": {
         "REQS": "M E 373 or equivalent ",
-        "C_NAME": "iology Inspired Robotics (3)"
+        "C_NAME": "Biology Inspired Robotics (3)"
     },
     "M E 588": {
         "REQS": "graduate standing in engineering or permission of instructor",
-        "C_NAME": "ynamics and Vibrations (3)"
+        "C_NAME": "Dynamics and Vibrations (3)"
     },
     "M E 589": {
         "REQS": "M E 588 or permission of instructor",
-        "C_NAME": "ibrations (3)"
+        "C_NAME": "Vibrations (3)"
     },
     "M E 591": {
         "REQS": "NONE",
@@ -1579,19 +1579,19 @@
     },
     "M E 593": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "eedforward Control (3)"
+        "C_NAME": "Feedforward Control (3)"
     },
     "M E 594": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "obust Control (3)"
+        "C_NAME": "Robust Control (3)"
     },
     "M E 597": {
         "REQS": "A A 547/E E 547/M E 547",
-        "C_NAME": "etworked Dynamics Systems (3)"
+        "C_NAME": "Networked Dynamics Systems (3)"
     },
     "M E 598": {
         "REQS": "Permission of faculty supervisor and graduate program coordinator ",
-        "C_NAME": "raduate Projects (1-6, max. 9)"
+        "C_NAME": "Graduate Projects (1-6, max. 9)"
     },
     "M E 599": {
         "REQS": "NONE",
@@ -1611,11 +1611,11 @@
     },
     "NME 220": {
         "REQS": "either CHEM 142, CHEM 144, or CHEM 145; either MATH 126 or MATH 136; PHYS 121",
-        "C_NAME": "ntroduction to Molecular and Nanoscale Principles (4) NSc"
+        "C_NAME": "Introduction to Molecular and Nanoscale Principles (4) NSc"
     },
     "NME 221": {
         "REQS": "NME 220, which may be taken concurrently",
-        "C_NAME": "anoscience and Molecular Engineering Seminar I (1)"
+        "C_NAME": "Nanoscience and Molecular Engineering Seminar I (1)"
     },
     "NME 321": {
         "REQS": "NONE",
@@ -1623,7 +1623,7 @@
     },
     "NME 421": {
         "REQS": "NME 321",
-        "C_NAME": "anoscience and Molecular Engineering Seminar III (1)"
+        "C_NAME": "Nanoscience and Molecular Engineering Seminar III (1)"
     },
     "NME 498": {
         "REQS": "NONE",
@@ -1635,7 +1635,7 @@
     },
     "ESS 101": {
         "REQS": "No prerequisite classes required",
-        "C_NAME": "ntroduction to Geology and Societal Impacts (5) SSc/NSc"
+        "C_NAME": "Introduction to Geology and Societal Impacts (5) SSc/NSc"
     },
     "ESS 102": {
         "REQS": "NONE",
@@ -1671,7 +1671,7 @@
     },
     "ESS 201": {
         "REQS": "either MATH 124, MATH 134, or Q SCI 291; recommended: An introductory background in earth sciences, chemistry or physics is helpful, but not required",
-        "C_NAME": "arth's Climate System (3) NSc"
+        "C_NAME": "Earth's Climate System (3) NSc"
     },
     "ESS 202": {
         "REQS": "NONE",
@@ -1683,7 +1683,7 @@
     },
     "ESS 204": {
         "REQS": "a minimum grade of 1.7 in ESS 100",
-        "C_NAME": "he Paleobiology and Geobiology of Mass Extinctions (3-4) NSc"
+        "C_NAME": "The Paleobiology and Geobiology of Mass Extinctions (3-4) NSc"
     },
     "ESS 205": {
         "REQS": "NONE",
@@ -1695,15 +1695,15 @@
     },
     "ESS 211": {
         "REQS": "a minimum grade of 2.0 in either MATH 124, MATH 134, or Q SCI 291, either of which may be taken concurrently; and a minimum grade of 2.0 in either both PHYS 114 and PHYS 117, or PHYS 121",
-        "C_NAME": "hysical Processes of the Earth (5) NSc"
+        "C_NAME": "Physical Processes of the Earth (5) NSc"
     },
     "ESS 212": {
         "REQS": "either CHEM 110, a passing score on the General Chemistry Placement Exam, or a score of 1 or higher on the Chemistry AP test; recommended: high school or college chemistry; and high school or college pre-calculus",
-        "C_NAME": "late Tectonics and Materials of the Earth (5) NSc"
+        "C_NAME": "Plate Tectonics and Materials of the Earth (5) NSc"
     },
     "ESS 213": {
         "REQS": "a minimum grade of 2.0 in either ESS 210, ESS 211, or ESS 212",
-        "C_NAME": "volution of the Earth (5) NSc"
+        "C_NAME": "Evolution of the Earth (5) NSc"
     },
     "ESS 230": {
         "REQS": "NONE",
@@ -1719,67 +1719,67 @@
     },
     "ESS 301": {
         "REQS": "either ESS 101, ESS 105, ESS 210, ESS 211, or ESS 212",
-        "C_NAME": "eology of the Northwest (5) NSc"
+        "C_NAME": "Geology of the Northwest (5) NSc"
     },
     "ESS 305": {
         "REQS": "either ESS 101, ESS 105, ESS 210, ESS 211, or ESS 212",
-        "C_NAME": "eology of the National Parks (5) NSc"
+        "C_NAME": "Geology of the National Parks (5) NSc"
     },
     "ESS 306": {
         "REQS": "either ESS 101, ESS 105, ESS 210, ESS 211, or ESS 212",
-        "C_NAME": "lanetary Geology (5) NSc"
+        "C_NAME": "Planetary Geology (5) NSc"
     },
     "ESS 307": {
         "REQS": "either ASTR 101, ASTR 102, ASTR 150, BIOL 180, BIOL 240, CHEM 120, CHEM 142, CHEM 143, CHEM 145, ESS 101, ESS 102, ESS 211, ESS 212, ESS 213, ESS 472, PHYS 114, or PHYS 121",
-        "C_NAME": "iversity Outreach Program in Earth and Space Sciences (3-5) SSc/NSc, DIV"
+        "C_NAME": "Diversity Outreach Program in Earth and Space Sciences (3-5) SSc/NSc, DIV"
     },
     "ESS 310": {
         "REQS": "either Q SCI 292, MATH 125 or MATH 135; either PHYS 114/PHYS 117 or PHYS 121",
-        "C_NAME": "athematical Methods in the Earth Sciences (5) NSc"
+        "C_NAME": "Mathematical Methods in the Earth Sciences (5) NSc"
     },
     "ESS 311": {
         "REQS": "a minimum grade of 2.0 in either MATH 125, MATH 135, or Q SCI 292; a minimum grade of 2.0 in either both PHYS 114 and 117, or PHYS 121; and a minimum grade of 2.0 in ESS 211; recommended: Previous experience with MATLAB",
-        "C_NAME": "eomechanics (5) NSc"
+        "C_NAME": "Geomechanics (5) NSc"
     },
     "ESS 312": {
         "REQS": "a minimum grade of 2.0 in either CHEM 142 or CHEM 145; and a minimum grade of 2.0 in ESS 212; recommended: ESS 211 and ESS 213",
-        "C_NAME": "arth Materials (5) NSc"
+        "C_NAME": "Earth Materials (5) NSc"
     },
     "ESS 313": {
         "REQS": "minimum 2.0 in either CHEM 142 or CHEM 145; minimum 2.0 in ESS 213",
-        "C_NAME": "eobiology (5) NSc"
+        "C_NAME": "Geobiology (5) NSc"
     },
     "ESS 314": {
         "REQS": "a minimum grade of 2.0 in either MATH 126, MATH 136, or ESS 310; and a minimum grade of 2.0 in either both PHYS 115 and PHYS 118, or PHYS 122",
-        "C_NAME": "eophysics (5) NSc"
+        "C_NAME": "Geophysics (5) NSc"
     },
     "ESS 315": {
         "REQS": "either ESS 101, ESS 105, ESS 210, ESS 211, or ESS 212",
-        "C_NAME": "nvironmental Earth Science (5) NSc"
+        "C_NAME": "Environmental Earth Science (5) NSc"
     },
     "ESS 316": {
         "REQS": "a minimum grade of 2.0 in either CHEM 142 or CHEM 145; a minimum grade of 2.0 in either MATH 125, MATH 135, or Q SCI 292; and a minimum grade of 2.0 in ESS 212",
-        "C_NAME": "eochemistry (5) NSc"
+        "C_NAME": "Geochemistry (5) NSc"
     },
     "ESS 326": {
         "REQS": "either PHYS 114 or PHYS 121",
-        "C_NAME": "eomorphology (5) NSc"
+        "C_NAME": "Geomorphology (5) NSc"
     },
     "ESS 400": {
         "REQS": "ESS 211; ESS 212 ; ESS 213; one course selected from ESS 311, ESS 312, ESS 313, ESS 314, or ESS 316",
-        "C_NAME": "ield Geology (12) NSc"
+        "C_NAME": "Field Geology (12) NSc"
     },
     "ESS 401": {
         "REQS": "ESS 211; ESS 212; ESS 213; ESS 420; and either ESS 311, ESS 312, ESS 313, ESS 314, or ESS 316",
-        "C_NAME": "ield Geology with GIS (12) NSc"
+        "C_NAME": "Field Geology with GIS (12) NSc"
     },
     "ESS 402": {
         "REQS": "No prerequisites required but related experience is encouraged",
-        "C_NAME": "nternational Field Geology (3-12, max. 12) NSc"
+        "C_NAME": "International Field Geology (3-12, max. 12) NSc"
     },
     "ESS 403": {
         "REQS": "PHYS 121; recommended: either MATH 126, MATH 136, or ESS 310; PHYS 123; either ESS 311 or 314; a background in quantitative analysis using a computer based environment like MATLAB",
-        "C_NAME": "lobal Tectonics (5) NSc"
+        "C_NAME": "Global Tectonics (5) NSc"
     },
     "ESS 408": {
         "REQS": "NONE",
@@ -1787,27 +1787,27 @@
     },
     "ESS 410": {
         "REQS": "either OCEAN 310 or ESS 211 ",
-        "C_NAME": "arine Geology and Geophysics (4) NW"
+        "C_NAME": "Marine Geology and Geophysics (4) NW"
     },
     "ESS 411": {
         "REQS": "either MATH 136,  both MATH 207 and MATH 208, or both AMATH 351 and AMATH 352",
-        "C_NAME": "eophysical Continuum Mechanics (5) NSc"
+        "C_NAME": "Geophysical Continuum Mechanics (5) NSc"
     },
     "ESS 412": {
         "REQS": "either MATH 136, both MATH 207 and MATH 208, or both AMATH 351 and AMATH 352; recommended: ESS 411 and PHYS 123",
-        "C_NAME": "ntroduction to Seismology (3) NSc"
+        "C_NAME": "Introduction to Seismology (3) NSc"
     },
     "ESS 414": {
         "REQS": "either MATH 136, both MATH 207 and MATH 208, or both AMATH 351 and AMATH 352;  and PHYS 322",
-        "C_NAME": "eophysics: Fluids (3) NSc"
+        "C_NAME": "Geophysics: Fluids (3) NSc"
     },
     "ESS 415": {
         "REQS": "PHYS 321; recommended: PHYS 322",
-        "C_NAME": "pace and Plasmas (3) NSc"
+        "C_NAME": "Space and Plasmas (3) NSc"
     },
     "ESS 418": {
         "REQS": "Two of ESS 201, ESS 205, ESS 211, ESS 212, ESS 213, any of which may be taken concurrently",
-        "C_NAME": "eoscience Communication (4)"
+        "C_NAME": "Geoscience Communication (4)"
     },
     "ESS 420": {
         "REQS": "NONE",
@@ -1819,23 +1819,23 @@
     },
     "ESS 422": {
         "REQS": "ESS 211; recommended: PHYS 116 or PHYS 123; ESS 421",
-        "C_NAME": "ield Methods in Remote Sensing (4) NSc"
+        "C_NAME": "Field Methods in Remote Sensing (4) NSc"
     },
     "ESS 425": {
         "REQS": "either ESS 311, ESS 326, ESS 426, or ESS 427",
-        "C_NAME": "ectonic Geomorphology (3)"
+        "C_NAME": "Tectonic Geomorphology (3)"
     },
     "ESS 426": {
         "REQS": "either ESS 311 or ESS 326",
-        "C_NAME": "luvial Geomorphology (5)"
+        "C_NAME": "Fluvial Geomorphology (5)"
     },
     "ESS 427": {
         "REQS": "either ESS 311 or ESS 326",
-        "C_NAME": "illslope Geomorphology (5) NSc"
+        "C_NAME": "Hillslope Geomorphology (5) NSc"
     },
     "ESS 431": {
         "REQS": "PHYS 121",
-        "C_NAME": "rinciples of Glaciology (4) NSc"
+        "C_NAME": "Principles of Glaciology (4) NSc"
     },
     "ESS 433": {
         "REQS": "NONE",
@@ -1843,23 +1843,23 @@
     },
     "ESS 439": {
         "REQS": "ESS 316",
-        "C_NAME": "etrology of Igneous Rocks (5) NSc"
+        "C_NAME": "Petrology of Igneous Rocks (5) NSc"
     },
     "ESS 441": {
         "REQS": "ESS 316",
-        "C_NAME": "etrology and Petrography of Sedimentary Rocks (5) NSc"
+        "C_NAME": "Petrology and Petrography of Sedimentary Rocks (5) NSc"
     },
     "ESS 445": {
         "REQS": "ESS 211; ESS 212; ESS 213; and ESS 316, which may be taken concurrently",
-        "C_NAME": "conomic Geology (4) NSc"
+        "C_NAME": "Economic Geology (4) NSc"
     },
     "ESS 447": {
         "REQS": "either ESS 210, ESS 211, or ESS 212; and either ESS 311, ESS 411, ESS 463, or CEE 220",
-        "C_NAME": "ngineering Geology: Methods and Application (4)"
+        "C_NAME": "Engineering Geology: Methods and Application (4)"
     },
     "ESS 448": {
         "REQS": "either BIOL 280, BIOL 354, or ESS 213",
-        "C_NAME": "nalytical Paleobiology (5) NW"
+        "C_NAME": "Analytical Paleobiology (5) NW"
     },
     "ESS 449": {
         "REQS": "NONE",
@@ -1875,31 +1875,31 @@
     },
     "ESS 452": {
         "REQS": "either BIOL 354, BIOL 452, BIOL 453 or ESS 100",
-        "C_NAME": "ertebrate Paleontology (5) NW"
+        "C_NAME": "Vertebrate Paleontology (5) NW"
     },
     "ESS 453": {
         "REQS": "either ESS 100 or ESS 452",
-        "C_NAME": "ossil Mammals (5) NSc"
+        "C_NAME": "Fossil Mammals (5) NSc"
     },
     "ESS 454": {
         "REQS": "either ESS 311 or ESS 314; recommended:  either MATH 126, MATH 136, or ESS 310; a background in quantitative analysis using spreadsheets or MATLABView course details in MyPlan: ESS 454",
-        "C_NAME": "ydrogeology (4) NSc"
+        "C_NAME": "Hydrogeology (4) NSc"
     },
     "ESS 455": {
         "REQS": "ESS 213",
-        "C_NAME": "tratigraphy (4) NSc"
+        "C_NAME": "Stratigraphy (4) NSc"
     },
     "ESS 456": {
         "REQS": "ESS 213; recommended: ESS 311 and either ESS 326, ESS 425, ESS 426, or ESS 427View course details in MyPlan: ESS 456",
-        "C_NAME": "edimentary Geology and Depositional Environments (4) NSc"
+        "C_NAME": "Sedimentary Geology and Depositional Environments (4) NSc"
     },
     "ESS 457": {
         "REQS": "either ESS 316, CHEM 152, or CHEM 155",
-        "C_NAME": "nvironmental Geochemistry (4) NSc"
+        "C_NAME": "Environmental Geochemistry (4) NSc"
     },
     "ESS 460": {
         "REQS": "either ESS 311 or ESS 316",
-        "C_NAME": "osmogenic Nuclides in Geomorphology (3) NSc"
+        "C_NAME": "Cosmogenic Nuclides in Geomorphology (3) NSc"
     },
     "ESS 461": {
         "REQS": "NONE",
@@ -1907,23 +1907,23 @@
     },
     "ESS 462": {
         "REQS": "either ESS 311, ESS 312, or ESS 316",
-        "C_NAME": "olcanic Processes (4) NSc"
+        "C_NAME": "Volcanic Processes (4) NSc"
     },
     "ESS 463": {
         "REQS": "ESS 211; ESS 212; and ESS 213",
-        "C_NAME": "tructure and Tectonics (5) NSc"
+        "C_NAME": "Structure and Tectonics (5) NSc"
     },
     "ESS 467": {
         "REQS": "ESS 311 or ESS 314, or OCEAN 285 and OCEAN 310",
-        "C_NAME": "eismic Exploration (3) NSc"
+        "C_NAME": "Seismic Exploration (3) NSc"
     },
     "ESS 469": {
         "REQS": "either CSE 160, CS163, STAT 220, STAT 221/SOC 221/CS&SS 221, STAT 311, STAT 390, MATH 207, MATH 208, AMATH 301, AMATH 351, or AMATH 352.\n; recommended: either knowledge in Matlab or Python, AMATH 301, or 100- or 200-level ESS, ATM S, or OCEAN courses in earth sciences",
-        "C_NAME": "achine Learning in Geosciences (4) RSN"
+        "C_NAME": "Machine Learning in Geosciences (4) RSN"
     },
     "ESS 471": {
         "REQS": "PHYS 123",
-        "C_NAME": "ntroduction to Space Physics (3) NSc"
+        "C_NAME": "Introduction to Space Physics (3) NSc"
     },
     "ESS 472": {
         "REQS": "NONE",
@@ -1931,15 +1931,15 @@
     },
     "ESS 475": {
         "REQS": "either ESS 201, ATM S 211, or ATM S 321",
-        "C_NAME": "urrent Research in Climate Science Seminar (3, max. 6)"
+        "C_NAME": "Current Research in Climate Science Seminar (3, max. 6)"
     },
     "ESS 480": {
         "REQS": "either ESS 316, ESS 424, ESS 457, or ESS 459",
-        "C_NAME": "dvanced Methods in Isotope Geochemistry (3, max. 18) NSc"
+        "C_NAME": "Advanced Methods in Isotope Geochemistry (3, max. 18) NSc"
     },
     "ESS 482": {
         "REQS": "ESS 316 or ESS 457",
-        "C_NAME": "nvironmental Geochemistry Laboratory (4) NSc"
+        "C_NAME": "Environmental Geochemistry Laboratory (4) NSc"
     },
     "ESS 488": {
         "REQS": "NONE",
@@ -1959,7 +1959,7 @@
     },
     "ESS 492": {
         "REQS": "either ESS 101, ESS 210, ESS 211, ESS  212, or ESS 213",
-        "C_NAME": "ducation in the Earth Sciences (2-3, max. 12) NSc"
+        "C_NAME": "Education in the Earth Sciences (2-3, max. 12) NSc"
     },
     "ESS 495": {
         "REQS": "NONE",
@@ -1967,7 +1967,7 @@
     },
     "ESS 498": {
         "REQS": "Permission of instructor",
-        "C_NAME": "ndependent Study (1-5, max. 15)"
+        "C_NAME": "Independent Study (1-5, max. 15)"
     },
     "ESS 499": {
         "REQS": "NONE",
@@ -1975,7 +1975,7 @@
     },
     "ESS 501": {
         "REQS": "graduate student standing or permission of instructor",
-        "C_NAME": "eochemical Systems (3)"
+        "C_NAME": "Geochemical Systems (3)"
     },
     "ESS 502": {
         "REQS": "NONE",
@@ -1983,7 +1983,7 @@
     },
     "ESS 503": {
         "REQS": "PHYS 123",
-        "C_NAME": "ntroduction to Solar Terrestrial Physics (3)"
+        "C_NAME": "Introduction to Solar Terrestrial Physics (3)"
     },
     "ESS 504": {
         "REQS": "NONE",
@@ -1991,35 +1991,35 @@
     },
     "ESS 505": {
         "REQS": "PHYS 121",
-        "C_NAME": "he Cryosphere (4)"
+        "C_NAME": "The Cryosphere (4)"
     },
     "ESS 508": {
         "REQS": "graduate standing in earth sciences, or in history of science, or permission of instructor",
-        "C_NAME": "reat Geological Issues (3)"
+        "C_NAME": "Great Geological Issues (3)"
     },
     "ESS 509": {
         "REQS": "graduate standing in ESS; recommended: undergraduate degree in geology or a closely related field, including a geologic field methods course",
-        "C_NAME": "pplied Geology Investigations (3)"
+        "C_NAME": "Applied Geology Investigations (3)"
     },
     "ESS 510": {
         "REQS": "ESS 509; three of ESS 420, ESS 454, ESS 526, ESS 527, or ESS 547",
-        "C_NAME": "dvanced Applied Geology Field Investigations (3)"
+        "C_NAME": "Advanced Applied Geology Field Investigations (3)"
     },
     "ESS 511": {
         "REQS": "either MATH 207 and MATH 208, or equivalent",
-        "C_NAME": "eophysical Continuum Mechanics (5)"
+        "C_NAME": "Geophysical Continuum Mechanics (5)"
     },
     "ESS 512": {
         "REQS": "either ESS 511, or PHYS 123 and either MATH 207 or MATH 208",
-        "C_NAME": "eismology (3)"
+        "C_NAME": "Seismology (3)"
     },
     "ESS 514": {
         "REQS": "either PHYS 322; MATH 207; and MATH 208, or equivalent",
-        "C_NAME": "eophysics: Fluids (3)"
+        "C_NAME": "Geophysics: Fluids (3)"
     },
     "ESS 515": {
         "REQS": "PHYS 321 or equivalent; recommended: PHYS 322",
-        "C_NAME": "eophysics: Space (3)"
+        "C_NAME": "Geophysics: Space (3)"
     },
     "ESS 517": {
         "REQS": "NONE",
@@ -2035,11 +2035,11 @@
     },
     "ESS 520": {
         "REQS": "ESS 420 or permission of instructor",
-        "C_NAME": "pplication in Geographic Information Systems for the Earth Sciences (4)"
+        "C_NAME": "Application in Geographic Information Systems for the Earth Sciences (4)"
     },
     "ESS 521": {
         "REQS": "ESS 420 (or equivalent) or permission of instructor; recommended: graduate-level background and/or standing in earth and environmental sciences",
-        "C_NAME": "dvanced Geospatial Analysis with Python for the Earth Sciences (4)"
+        "C_NAME": "Advanced Geospatial Analysis with Python for the Earth Sciences (4)"
     },
     "ESS 522": {
         "REQS": "NONE",
@@ -2051,7 +2051,7 @@
     },
     "ESS 524": {
         "REQS": "either MATH 207 and MATH 208, equivalent, or permission of instructor",
-        "C_NAME": "umerical Heat and Mass Flow Modeling in the Earth Sciences (3)"
+        "C_NAME": "Numerical Heat and Mass Flow Modeling in the Earth Sciences (3)"
     },
     "ESS 525": {
         "REQS": "NONE",
@@ -2075,19 +2075,19 @@
     },
     "ESS 532": {
         "REQS": "permission of instructor",
-        "C_NAME": "now and Ice on the Earth's Surface (3)"
+        "C_NAME": "Snow and Ice on the Earth's Surface (3)"
     },
     "ESS 533": {
         "REQS": "permission of instructor",
-        "C_NAME": "ynamics of Snow and Ice Masses (3)"
+        "C_NAME": "Dynamics of Snow and Ice Masses (3)"
     },
     "ESS 541": {
         "REQS": "either ESS 426, ESS 526, or permission of instructor",
-        "C_NAME": "pplied Fluvial Geomorphology (4)"
+        "C_NAME": "Applied Fluvial Geomorphology (4)"
     },
     "ESS 544": {
         "REQS": "MATH 126; PHYS 123; AMATH 301, or equivalents",
-        "C_NAME": "pplied Tsunami Hazard Science (4)"
+        "C_NAME": "Applied Tsunami Hazard Science (4)"
     },
     "ESS 546": {
         "REQS": "NONE",
@@ -2111,11 +2111,11 @@
     },
     "ESS 559": {
         "REQS": "either ATM S 587/OCEAN 587/ESS 587, ATM S 504 or ATM S 505",
-        "C_NAME": "limate Modeling (3)"
+        "C_NAME": "Climate Modeling (3)"
     },
     "ESS 560": {
         "REQS": "either AMATH 301, AMATH 351, or permission of instructor",
-        "C_NAME": "osmogenic Nuclides in Geomorphology (3)"
+        "C_NAME": "Cosmogenic Nuclides in Geomorphology (3)"
     },
     "ESS 562": {
         "REQS": "NONE",
@@ -2123,11 +2123,11 @@
     },
     "ESS 563": {
         "REQS": "either ESS 412, ESS 512, or permission of instructor",
-        "C_NAME": "heoretical Seismology I (3)"
+        "C_NAME": "Theoretical Seismology I (3)"
     },
     "ESS 564": {
         "REQS": "ESS 563",
-        "C_NAME": "heoretical Seismology II (3)"
+        "C_NAME": "Theoretical Seismology II (3)"
     },
     "ESS 567": {
         "REQS": "NONE",
@@ -2135,7 +2135,7 @@
     },
     "ESS 568": {
         "REQS": "OCEAN 540",
-        "C_NAME": "ceanic Lithosphere (3)"
+        "C_NAME": "Oceanic Lithosphere (3)"
     },
     "ESS 569": {
         "REQS": "NONE",
@@ -2143,7 +2143,7 @@
     },
     "ESS 573": {
         "REQS": "ATM S 501 or permission of instructor",
-        "C_NAME": "loud Microphysics and Dynamics (3)"
+        "C_NAME": "Cloud Microphysics and Dynamics (3)"
     },
     "ESS 575": {
         "REQS": "NONE",
@@ -2151,11 +2151,11 @@
     },
     "ESS 576": {
         "REQS": "ESS 415, or equivalent, or permission of instructor",
-        "C_NAME": "pace and Laboratory Plasma Physics (3)"
+        "C_NAME": "Space and Laboratory Plasma Physics (3)"
     },
     "ESS 580": {
         "REQS": "one of ESS 316, ESS 424, ESS 457, ESS 459, ESS 501, ESS 554, OCEAN 583, or permission of instructor",
-        "C_NAME": "dvanced Methods in Isotope Geochemistry (3, max. 18)"
+        "C_NAME": "Advanced Methods in Isotope Geochemistry (3, max. 18)"
     },
     "ESS 581": {
         "REQS": "NONE",
@@ -2219,7 +2219,7 @@
     },
     "ESS 597": {
         "REQS": "ESS 592 and permission of instructor Credit/no-credit only",
-        "C_NAME": "pplied Geoscience Investigation (1-5, max. 10)"
+        "C_NAME": "Applied Geoscience Investigation (1-5, max. 10)"
     },
     "ESS 599": {
         "REQS": "NONE",
@@ -2231,7 +2231,7 @@
     },
     "ESS 601": {
         "REQS": "permission of instructor",
-        "C_NAME": "nternship (*)"
+        "C_NAME": "Internship (*)"
     },
     "ESS 700": {
         "REQS": "NONE",
@@ -2255,15 +2255,15 @@
     },
     "CEE 220": {
         "REQS": "minimum grade of 2.0 in A A 210",
-        "C_NAME": "ntroduction to Mechanics of Materials (4) NSc"
+        "C_NAME": "Introduction to Mechanics of Materials (4) NSc"
     },
     "CEE 250": {
         "REQS": "either MATH 120, or MATH 124",
-        "C_NAME": "nvironmental Processes and flows (3) NSc"
+        "C_NAME": "Environmental Processes and flows (3) NSc"
     },
     "CEE 291": {
         "REQS": "MATH 124 or MATH 112",
-        "C_NAME": "ntroduction to AutoCAD for Civil Engineers (2) NSc"
+        "C_NAME": "Introduction to AutoCAD for Civil Engineers (2) NSc"
     },
     "CEE 297": {
         "REQS": "NONE",
@@ -2283,39 +2283,39 @@
     },
     "CEE 317": {
         "REQS": "either MATH 126, MATH 134, MATH 135, or MATH 136",
-        "C_NAME": "eoSurveying (5)"
+        "C_NAME": "GeoSurveying (5)"
     },
     "CEE 327": {
         "REQS": "PHYS 121 or PHYS 141; and either MATH 126, MATH 134, MATH 135, or MATH 136",
-        "C_NAME": "ransportation Engineering (5)"
+        "C_NAME": "Transportation Engineering (5)"
     },
     "CEE 337": {
         "REQS": "CEE 220",
-        "C_NAME": "onstruction Materials (5)"
+        "C_NAME": "Construction Materials (5)"
     },
     "CEE 347": {
         "REQS": "CEE 220; and PHYS 122 or PHYS 142",
-        "C_NAME": "ntroduction to Fluid Mechanics (5)"
+        "C_NAME": "Introduction to Fluid Mechanics (5)"
     },
     "CEE 348": {
         "REQS": "CEE 347; and either PHYS 123 or PHYS 143",
-        "C_NAME": "ydrology and Environmental Fluid Mechanics (4)"
+        "C_NAME": "Hydrology and Environmental Fluid Mechanics (4)"
     },
     "CEE 349": {
         "REQS": "either CHEM 153, CHEM 162, or CHEM 165.\n ",
-        "C_NAME": "ase Studies in Environmental Engineering (3)"
+        "C_NAME": "Case Studies in Environmental Engineering (3)"
     },
     "CEE 350": {
         "REQS": "either CHEM 153, CHEM 162, or CHEM 165; PHYS 122 or PHYS 142; and either AMATH 351 or MATH 207.\nView course details in MyPlan: CEE 350",
-        "C_NAME": "ass and Energy Balances in Environmental Engineering (4)"
+        "C_NAME": "Mass and Energy Balances in Environmental Engineering (4)"
     },
     "CEE 352": {
         "REQS": "BIOL 180\nView course details in MyPlan: CEE 352",
-        "C_NAME": "ntroduction to Microbial Principles in Environmental Engineering (5)"
+        "C_NAME": "Introduction to Microbial Principles in Environmental Engineering (5)"
     },
     "CEE 354": {
         "REQS": "either CHEM 153, CHEM 162, or CHEM 165",
-        "C_NAME": "ntroduction to Chemical Principles in Environmental Engineering (5)"
+        "C_NAME": "Introduction to Chemical Principles in Environmental Engineering (5)"
     },
     "CEE 356": {
         "REQS": "NONE",
@@ -2323,11 +2323,11 @@
     },
     "CEE 357": {
         "REQS": "CHEM 142, CHEM 143, or CHEM 145 ",
-        "C_NAME": "nvironmental Engineering (5)"
+        "C_NAME": "Environmental Engineering (5)"
     },
     "CEE 367": {
         "REQS": "CEE 347",
-        "C_NAME": "eotechnical Engineering (5)"
+        "C_NAME": "Geotechnical Engineering (5)"
     },
     "CEE 377": {
         "REQS": "NONE",
@@ -2335,7 +2335,7 @@
     },
     "CEE 378": {
         "REQS": "CEE 377",
-        "C_NAME": "tructural Analysis (5)"
+        "C_NAME": "Structural Analysis (5)"
     },
     "CEE 401": {
         "REQS": "NONE",
@@ -2347,11 +2347,11 @@
     },
     "CEE 405": {
         "REQS": "CEE 327View course details in MyPlan: CEE 405",
-        "C_NAME": "raffic Simulation (3)"
+        "C_NAME": "Traffic Simulation (3)"
     },
     "CEE 408": {
         "REQS": "CEE 307 and CEE 327.\nView course details in MyPlan: CEE 408",
-        "C_NAME": "ustainable Roadway Design and Construction (3)"
+        "C_NAME": "Sustainable Roadway Design and Construction (3)"
     },
     "CEE 409": {
         "REQS": "NONE",
@@ -2359,19 +2359,19 @@
     },
     "CEE 410": {
         "REQS": "CEE 327",
-        "C_NAME": "raffic Engineering Fundamentals (3)"
+        "C_NAME": "Traffic Engineering Fundamentals (3)"
     },
     "CEE 412": {
         "REQS": "CEE 327",
-        "C_NAME": "ransportation Data Management and Visualization (3)"
+        "C_NAME": "Transportation Data Management and Visualization (3)"
     },
     "CEE 415": {
         "REQS": "either MATH 126 and MATH 208, or MATH 136; and either IND E 315 or STAT 390.\n; recommended: prior programming experience",
-        "C_NAME": "achine Learning for Civil Engineers (3) RSN"
+        "C_NAME": "Machine Learning for Civil Engineers (3) RSN"
     },
     "CEE 416": {
         "REQS": "CEE 327",
-        "C_NAME": "rban Transportation Planning and Design (3)"
+        "C_NAME": "Urban Transportation Planning and Design (3)"
     },
     "CEE 420": {
         "REQS": "NONE",
@@ -2379,15 +2379,15 @@
     },
     "CEE 421": {
         "REQS": "CEE 337",
-        "C_NAME": "avement Design and Construction (4)"
+        "C_NAME": "Pavement Design and Construction (4)"
     },
     "CEE 422": {
         "REQS": "CEE 327",
-        "C_NAME": "nergy and Transportation (3)"
+        "C_NAME": "Energy and Transportation (3)"
     },
     "CEE 424": {
         "REQS": "CEE 317",
-        "C_NAME": "IS for Civil Engineers (3)"
+        "C_NAME": "GIS for Civil Engineers (3)"
     },
     "CEE 428": {
         "REQS": "NONE",
@@ -2399,19 +2399,19 @@
     },
     "CEE 433": {
         "REQS": "CEE 307; CEE 337; and CEE 377; recommended: CEE 291.\n ",
-        "C_NAME": "emporary Structures (3)"
+        "C_NAME": "Temporary Structures (3)"
     },
     "CEE 434": {
         "REQS": "CEE 307 and CEE 337",
-        "C_NAME": "roject Estimating (3)"
+        "C_NAME": "Project Estimating (3)"
     },
     "CEE 435": {
         "REQS": "CEE 307",
-        "C_NAME": "roject Scheduling (3)"
+        "C_NAME": "Project Scheduling (3)"
     },
     "CEE 436": {
         "REQS": "CEE 367",
-        "C_NAME": "oundation Design (3)"
+        "C_NAME": "Foundation Design (3)"
     },
     "CEE 440": {
         "REQS": "NONE",
@@ -2419,43 +2419,43 @@
     },
     "CEE 441": {
         "REQS": "CEE 307; CEE 327; and CEE 337",
-        "C_NAME": "ransportation and Construction Capstone Design Project (5)"
+        "C_NAME": "Transportation and Construction Capstone Design Project (5)"
     },
     "CEE 442": {
         "REQS": "CEE 367 and CEE 377; either CEE 451 or CEE 452; and one additional course from CEE 436, CEE 451, CEE 452, CEE 453, CEE 454, CEE 456, or CEE 457",
-        "C_NAME": "tructural Geotechnical Capstone Design Project (5)"
+        "C_NAME": "Structural Geotechnical Capstone Design Project (5)"
     },
     "CEE 444": {
         "REQS": "either CEE 345 or CEE 347; and either CEE 475, CEE 476, CEE 482, CEE 483, or CEE 484",
-        "C_NAME": "ater Resources and Hydraulic Engineering Capstone Design Project (5)"
+        "C_NAME": "Water Resources and Hydraulic Engineering Capstone Design Project (5)"
     },
     "CEE 445": {
         "REQS": "either CEE 345 or CEE 347; and either CEE 473, CEE 475, CEE 476, CEE 481, CEE 482, CEE 483, or CEE 484",
-        "C_NAME": "nvironmental Engineering Capstone Design Project (5)"
+        "C_NAME": "Environmental Engineering Capstone Design Project (5)"
     },
     "CEE 451": {
         "REQS": "CEE 377",
-        "C_NAME": "esign of Metal Structures (3)"
+        "C_NAME": "Design of Metal Structures (3)"
     },
     "CEE 452": {
         "REQS": "CEE 377",
-        "C_NAME": "esign of Reinforced Concrete Structures (3)"
+        "C_NAME": "Design of Reinforced Concrete Structures (3)"
     },
     "CEE 453": {
         "REQS": "CEE 452",
-        "C_NAME": "restressed Concrete Design (3)"
+        "C_NAME": "Prestressed Concrete Design (3)"
     },
     "CEE 454": {
         "REQS": "CEE 377",
-        "C_NAME": "esign of Timber Structures (3)"
+        "C_NAME": "Design of Timber Structures (3)"
     },
     "CEE 455": {
         "REQS": "CEE 377",
-        "C_NAME": "tructural Unit Masonry (3)"
+        "C_NAME": "Structural Unit Masonry (3)"
     },
     "CEE 457": {
         "REQS": "CEE 378",
-        "C_NAME": "dvanced Structures I (3)"
+        "C_NAME": "Advanced Structures I (3)"
     },
     "CEE 462": {
         "REQS": "NONE",
@@ -2463,31 +2463,31 @@
     },
     "CEE 463": {
         "REQS": "BIOL 473/FISH 473/CEE 462, which may be taken concurrently",
-        "C_NAME": "imnology Laboratory (2) NW"
+        "C_NAME": "Limnology Laboratory (2) NW"
     },
     "CEE 465": {
         "REQS": "IND E 315; either AMATH 301 or CSE 142; recommended: Basic stats and computer programming (or matlab)  ",
-        "C_NAME": "ata Analysis in Water Sciences (4)"
+        "C_NAME": "Data Analysis in Water Sciences (4)"
     },
     "CEE 473": {
         "REQS": "CEE 347, OCEAN 285, or M E 333",
-        "C_NAME": "oastal Engineering I (3)"
+        "C_NAME": "Coastal Engineering I (3)"
     },
     "CEE 474": {
         "REQS": "CEE 347",
-        "C_NAME": "ydraulics of Sediment Transport (3)"
+        "C_NAME": "Hydraulics of Sediment Transport (3)"
     },
     "CEE 475": {
         "REQS": "CEE 347",
-        "C_NAME": "nalysis Techniques for Groundwater Flow (3)"
+        "C_NAME": "Analysis Techniques for Groundwater Flow (3)"
     },
     "CEE 476": {
         "REQS": "CEE 347",
-        "C_NAME": "hysical Hydrology (3)"
+        "C_NAME": "Physical Hydrology (3)"
     },
     "CEE 477": {
         "REQS": "CEE 347",
-        "C_NAME": "pen-Channel Flow (3)"
+        "C_NAME": "Open-Channel Flow (3)"
     },
     "CEE 478": {
         "REQS": "NONE",
@@ -2495,19 +2495,19 @@
     },
     "CEE 480": {
         "REQS": "MATH 125",
-        "C_NAME": "ir-Quality Modeling (3) NSc"
+        "C_NAME": "Air-Quality Modeling (3) NSc"
     },
     "CEE 481": {
         "REQS": "CEE 347; and either CEE 350 or CEE 357",
-        "C_NAME": "ydraulic Design for Environmental Engineering (3)"
+        "C_NAME": "Hydraulic Design for Environmental Engineering (3)"
     },
     "CEE 482": {
         "REQS": "CEE 350 or CEE 357",
-        "C_NAME": "astewater Reuse and Resource Recovery (3)"
+        "C_NAME": "Wastewater Reuse and Resource Recovery (3)"
     },
     "CEE 483": {
         "REQS": "CEE 350 or CEE 357",
-        "C_NAME": "rinking Water Treatment (3)"
+        "C_NAME": "Drinking Water Treatment (3)"
     },
     "CEE 490": {
         "REQS": "NONE",
@@ -2535,27 +2535,27 @@
     },
     "CEE 500": {
         "REQS": "graduate standing in Civil and Environmental Engineering",
-        "C_NAME": "ivil and Environmental Engineering Seminars (1, max. 3)"
+        "C_NAME": "Civil and Environmental Engineering Seminars (1, max. 3)"
     },
     "CEE 521": {
         "REQS": "CEE 367 or equivalent",
-        "C_NAME": "eepage and Consolidation (3)"
+        "C_NAME": "Seepage and Consolidation (3)"
     },
     "CEE 522": {
         "REQS": "CEE 367 or equivalent",
-        "C_NAME": "hear Strength and Slope Stability (3)"
+        "C_NAME": "Shear Strength and Slope Stability (3)"
     },
     "CEE 523": {
         "REQS": "CEE 522 and CEE 527",
-        "C_NAME": "dvanced Foundation Engineering (3)"
+        "C_NAME": "Advanced Foundation Engineering (3)"
     },
     "CEE 529": {
         "REQS": "CEE 523",
-        "C_NAME": "oundation Soil Improvement (3)"
+        "C_NAME": "Foundation Soil Improvement (3)"
     },
     "CEE 531": {
         "REQS": "CEE 437 or permission of instructor",
-        "C_NAME": "ock Engineering (3)"
+        "C_NAME": "Rock Engineering (3)"
     },
     "CEE 576": {
         "REQS": "NONE",
@@ -2567,19 +2567,19 @@
     },
     "CEE 600": {
         "REQS": "permission of instructor",
-        "C_NAME": "ndependent Study or Research ([1-5]-)"
+        "C_NAME": "Independent Study or Research ([1-5]-)"
     },
     "CEE 601": {
         "REQS": "permission of Graduate Program Coordinator and committee chair",
-        "C_NAME": "nternship (2, max. 6)"
+        "C_NAME": "Internship (2, max. 6)"
     },
     "CEE 700": {
         "REQS": "permission of adviser",
-        "C_NAME": "aster's Thesis (*-)"
+        "C_NAME": "Master's Thesis (*-)"
     },
     "CEE 800": {
         "REQS": "permission of adviser",
-        "C_NAME": "octoral Dissertation (*-)"
+        "C_NAME": "Doctoral Dissertation (*-)"
     },
     "CET 511": {
         "REQS": "NONE",
@@ -2591,11 +2591,11 @@
     },
     "CET 513": {
         "REQS": "linear algebra or permission of instructor; recommended: linear or nonlinear programming",
-        "C_NAME": "ransportation Networks and Optimization (3)"
+        "C_NAME": "Transportation Networks and Optimization (3)"
     },
     "CET 521": {
         "REQS": "either IND E 315, STAT 390, or equivalent; recommended: standard introductory probability and statistics course",
-        "C_NAME": "nferential Data Analysis for Engineers (3)"
+        "C_NAME": "Inferential Data Analysis for Engineers (3)"
     },
     "CET 522": {
         "REQS": "NONE",
@@ -2655,7 +2655,7 @@
     },
     "CET 585": {
         "REQS": "CEE 584 or permission of instructor",
-        "C_NAME": "nalytical Methods in Transportation II (3)"
+        "C_NAME": "Analytical Methods in Transportation II (3)"
     },
     "CET 586": {
         "REQS": "NONE",
@@ -2671,7 +2671,7 @@
     },
     "CET 590": {
         "REQS": "CEE 327",
-        "C_NAME": "raffic Systems Operations (3)"
+        "C_NAME": "Traffic Systems Operations (3)"
     },
     "CET 591": {
         "REQS": "NONE",
@@ -2687,7 +2687,7 @@
     },
     "BSE 101": {
         "REQS": "None; recommended: high school chemistry and physics, ideally some exposure to organic chemistry",
-        "C_NAME": "iomass, Biofuels and Bioproducts (5) SSc/NSc"
+        "C_NAME": "Biomass, Biofuels and Bioproducts (5) SSc/NSc"
     },
     "BSE 150": {
         "REQS": "NONE",
@@ -2715,7 +2715,7 @@
     },
     "BSE 231": {
         "REQS": "Either C LIT 240, both ENGl 109 and ENGL 110, ENGL 111, ENGL 121, ENGL 131, ENGL 182, ENGL 197, ENGL 198, ENGL 199, or ENGL 281",
-        "C_NAME": "echnical Communication for Process Engineers (3) NSc"
+        "C_NAME": "Technical Communication for Process Engineers (3) NSc"
     },
     "BSE 248": {
         "REQS": "NONE",
@@ -2727,11 +2727,11 @@
     },
     "BSE 391": {
         "REQS": "A A 260; either CHEM 223 or CHEM 237; and MATH 207",
-        "C_NAME": "ngineering Principles of Biorefineries (5) NSc"
+        "C_NAME": "Engineering Principles of Biorefineries (5) NSc"
     },
     "BSE 392": {
         "REQS": "minimum grade of 2.0 in BSE 391",
-        "C_NAME": "ioresource Transport Phenomena (5) NSc"
+        "C_NAME": "Bioresource Transport Phenomena (5) NSc"
     },
     "BSE 399": {
         "REQS": "NONE",
@@ -2739,43 +2739,43 @@
     },
     "BSE 406": {
         "REQS": "either CHEM 223, CHEM 237, or CHEM 335",
-        "C_NAME": "atural Products Chemistry (5) NSc"
+        "C_NAME": "Natural Products Chemistry (5) NSc"
     },
     "BSE 410": {
         "REQS": "BSE 201; either BSE 391, CHEM E 310, CEE 350, or CEE 357; and either MATH 207 or AMATH 351; recommended: courses in physics; organic chemistry; differential equations; statistics; and engineering fundamentals ",
-        "C_NAME": "ndustrial Wastewater Treatment and Reduction (4)"
+        "C_NAME": "Industrial Wastewater Treatment and Reduction (4)"
     },
     "BSE 420": {
         "REQS": "BSE 406",
-        "C_NAME": "ioresource Engineering I (4)"
+        "C_NAME": "Bioresource Engineering I (4)"
     },
     "BSE 421": {
         "REQS": "minimum grade of 2.0 in both BSE 392 and BSE 420",
-        "C_NAME": "ioresource Engineering II (4)"
+        "C_NAME": "Bioresource Engineering II (4)"
     },
     "BSE 422": {
         "REQS": "minimum grade of 2.0 in BSE 421",
-        "C_NAME": "ioresource Engineering III (4)"
+        "C_NAME": "Bioresource Engineering III (4)"
     },
     "BSE 426": {
         "REQS": "minimum grade of 2.0 in BSE 420; Q SCI 381 or STAT 311 which may be taken concurrently",
-        "C_NAME": "ioresource Laboratory (4)"
+        "C_NAME": "Bioresource Laboratory (4)"
     },
     "BSE 430": {
         "REQS": "either BSE 392 or CHEM E 340",
-        "C_NAME": "apermaking Processes (5)"
+        "C_NAME": "Papermaking Processes (5)"
     },
     "BSE 436": {
         "REQS": "BSE 430",
-        "C_NAME": "ulp and Paper Laboratory II (4)"
+        "C_NAME": "Pulp and Paper Laboratory II (4)"
     },
     "BSE 480": {
         "REQS": "minimum grade of 2.0 in BSE 406; 2.0 in BSE 420; 2.0 in BSE 430",
-        "C_NAME": "ioresource Design I (4) SSc/NSc"
+        "C_NAME": "Bioresource Design I (4) SSc/NSc"
     },
     "BSE 481": {
         "REQS": "BSE 480",
-        "C_NAME": "ioresource Design II (5) SSc/NSc"
+        "C_NAME": "Bioresource Design II (5) SSc/NSc"
     },
     "BSE 489": {
         "REQS": "NONE",
@@ -2795,11 +2795,11 @@
     },
     "MSE 170": {
         "REQS": "Either CHEM 142, CHEM 143,  or CHEM 145",
-        "C_NAME": "undamentals of Materials Science (4) NSc"
+        "C_NAME": "Fundamentals of Materials Science (4) NSc"
     },
     "MSE 197": {
         "REQS": "either CHEM 142, CHEM 143, or CHEM 145",
-        "C_NAME": "ase Studies in Materials Innovation (2)"
+        "C_NAME": "Case Studies in Materials Innovation (2)"
     },
     "MSE 298": {
         "REQS": "NONE",
@@ -2811,15 +2811,15 @@
     },
     "MSE 311": {
         "REQS": "MSE 170, which may be taken concurrently ",
-        "C_NAME": "ntegrated Undergraduate Laboratory I (3)"
+        "C_NAME": "Integrated Undergraduate Laboratory I (3)"
     },
     "MSE 312": {
         "REQS": "MSE 311",
-        "C_NAME": "ntegrated Undergraduate Laboratory II (3)"
+        "C_NAME": "Integrated Undergraduate Laboratory II (3)"
     },
     "MSE 313": {
         "REQS": "MSE 312",
-        "C_NAME": "ntegrated Undergraduate Laboratory III (3)"
+        "C_NAME": "Integrated Undergraduate Laboratory III (3)"
     },
     "MSE 321": {
         "REQS": "NONE",
@@ -2827,31 +2827,31 @@
     },
     "MSE 322": {
         "REQS": "MSE 321",
-        "C_NAME": "inetics and Microstructural Evolution (4)"
+        "C_NAME": "Kinetics and Microstructural Evolution (4)"
     },
     "MSE 331": {
         "REQS": "MSE 170",
-        "C_NAME": "rystallography and Structure (3)"
+        "C_NAME": "Crystallography and Structure (3)"
     },
     "MSE 333": {
         "REQS": "MSE 170; MSE 331; MSE 351",
-        "C_NAME": "aterials Characterization (3)"
+        "C_NAME": "Materials Characterization (3)"
     },
     "MSE 342": {
         "REQS": "MSE 170; MSE 321",
-        "C_NAME": "aterials Processing I (3)"
+        "C_NAME": "Materials Processing I (3)"
     },
     "MSE 351": {
         "REQS": "MSE, 170, MSE 331",
-        "C_NAME": "lectronic Properties of Materials (3)"
+        "C_NAME": "Electronic Properties of Materials (3)"
     },
     "MSE 352": {
         "REQS": "MSE 351",
-        "C_NAME": "unctional Properties of Materials I (3)"
+        "C_NAME": "Functional Properties of Materials I (3)"
     },
     "MSE 362": {
         "REQS": "MSE 170",
-        "C_NAME": "echanical Behavior of Materials I (3)"
+        "C_NAME": "Mechanical Behavior of Materials I (3)"
     },
     "MSE 398": {
         "REQS": "NONE",
@@ -2863,15 +2863,15 @@
     },
     "MSE 431": {
         "REQS": "MSE 333; MSE 342; MSE 362; CEE 220 ",
-        "C_NAME": "ailure Analysis and Durability of Materials (3)"
+        "C_NAME": "Failure Analysis and Durability of Materials (3)"
     },
     "MSE 442": {
         "REQS": "MSE 342",
-        "C_NAME": "aterials Processing II (3)"
+        "C_NAME": "Materials Processing II (3)"
     },
     "MSE 443": {
         "REQS": "MSE 321",
-        "C_NAME": "rocess Principles in Ferrous and Non-Ferrous Materials Production (3)"
+        "C_NAME": "Process Principles in Ferrous and Non-Ferrous Materials Production (3)"
     },
     "MSE 450": {
         "REQS": "NONE",
@@ -2879,11 +2879,11 @@
     },
     "MSE 452": {
         "REQS": "MSE 352",
-        "C_NAME": "unctional Properties of Materials II (3)"
+        "C_NAME": "Functional Properties of Materials II (3)"
     },
     "MSE 462": {
         "REQS": "AA 210; CEE 220; MSE 362",
-        "C_NAME": "echanical Behavior of Materials II (3)"
+        "C_NAME": "Mechanical Behavior of Materials II (3)"
     },
     "MSE 463": {
         "REQS": "NONE",
@@ -2891,7 +2891,7 @@
     },
     "MSE 466": {
         "REQS": "either PHYS 431, E E 421, MSE 311, MSE 312, MSE 313, MSE 351, MSE 352, CHEM E 456, CHEM 455, or CHEM 475, any of which may be taken concurrently",
-        "C_NAME": "nergy Materials, Devices, and Systems (3)"
+        "C_NAME": "Energy Materials, Devices, and Systems (3)"
     },
     "MSE 471": {
         "REQS": "NONE",
@@ -2899,7 +2899,7 @@
     },
     "MSE 473": {
         "REQS": "MSE 342; MSE 351",
-        "C_NAME": "oncrystalline State (3)"
+        "C_NAME": "Noncrystalline State (3)"
     },
     "MSE 475": {
         "REQS": "NONE",
@@ -2907,7 +2907,7 @@
     },
     "MSE 476": {
         "REQS": "CSE 142 or AMATH 301; Completion or concurrent enrollment in MSE 331; or permission of instructor.\nView course details in MyPlan: MSE 476",
-        "C_NAME": "ntroduction to Optoelectronic Materials (3)"
+        "C_NAME": "Introduction to Optoelectronic Materials (3)"
     },
     "MSE 477": {
         "REQS": "NONE",
@@ -2915,11 +2915,11 @@
     },
     "MSE 478": {
         "REQS": "MSE 477/CHEM 441",
-        "C_NAME": "aterials and Device Modeling (3)"
+        "C_NAME": "Materials and Device Modeling (3)"
     },
     "MSE 479": {
         "REQS": "MSE 477/CHEM 441",
-        "C_NAME": "ig Data for Materials Science (3)"
+        "C_NAME": "Big Data for Materials Science (3)"
     },
     "MSE 481": {
         "REQS": "NONE",
@@ -2935,11 +2935,11 @@
     },
     "MSE 484": {
         "REQS": "either CHEM 453 or CHEM 455",
-        "C_NAME": "lectronic and Optoelectronic Polymers (3) NW"
+        "C_NAME": "Electronic and Optoelectronic Polymers (3) NW"
     },
     "MSE 486": {
         "REQS": "EE 331 or MSE 351",
-        "C_NAME": "undamentals of Integrated Circuit Technology (3)"
+        "C_NAME": "Fundamentals of Integrated Circuit Technology (3)"
     },
     "MSE 488": {
         "REQS": "NONE",
@@ -2955,11 +2955,11 @@
     },
     "MSE 491": {
         "REQS": "MSE 313 and MSE 352",
-        "C_NAME": "esign in Materials Engineering I (2)"
+        "C_NAME": "Design in Materials Engineering I (2)"
     },
     "MSE 492": {
         "REQS": "MSE 491",
-        "C_NAME": "esign in Materials Engineering II (3)"
+        "C_NAME": "Design in Materials Engineering II (3)"
     },
     "MSE 497": {
         "REQS": "NONE",
@@ -2999,15 +2999,15 @@
     },
     "MSE 512": {
         "REQS": "MSE 510",
-        "C_NAME": "xperimental Transmission Electron Microscopy (3)"
+        "C_NAME": "Experimental Transmission Electron Microscopy (3)"
     },
     "MSE 513": {
         "REQS": "MSE 512 which may be taken concurrently",
-        "C_NAME": "ransmission Electron Microscopy Laboratory (2)"
+        "C_NAME": "Transmission Electron Microscopy Laboratory (2)"
     },
     "MSE 515": {
         "REQS": "MSE 512 and MSE 513",
-        "C_NAME": "dvanced Transmission Electron Microscopy (3)"
+        "C_NAME": "Advanced Transmission Electron Microscopy (3)"
     },
     "MSE 520": {
         "REQS": "NONE",
@@ -3015,15 +3015,15 @@
     },
     "MSE 524": {
         "REQS": "basic course in transport phenomena or permission of instructor",
-        "C_NAME": "pplied Rate Phenomena (3)"
+        "C_NAME": "Applied Rate Phenomena (3)"
     },
     "MSE 525": {
         "REQS": "MSE 322 and MSE 421 or equivalent",
-        "C_NAME": "inetics and Phase Transformations (3)"
+        "C_NAME": "Kinetics and Phase Transformations (3)"
     },
     "MSE 529": {
         "REQS": "E E 485",
-        "C_NAME": "emiconductor Optoelectronics (4)"
+        "C_NAME": "Semiconductor Optoelectronics (4)"
     },
     "MSE 539": {
         "REQS": "NONE",
@@ -3031,7 +3031,7 @@
     },
     "MSE 541": {
         "REQS": "MSE 331 or equivalent",
-        "C_NAME": "efects in Materials (3)"
+        "C_NAME": "Defects in Materials (3)"
     },
     "MSE 542": {
         "REQS": "NONE",
@@ -3039,11 +3039,11 @@
     },
     "MSE 543": {
         "REQS": "either MSE 477/CHEM 441, MSE 542/CHEM 541, CHEM E 545/CHEM 545/MSE 545, or CHEM E 546/CHEM 546/MSE 546 (or equivalents)",
-        "C_NAME": "aterials and Device Modeling (3)"
+        "C_NAME": "Materials and Device Modeling (3)"
     },
     "MSE 544": {
         "REQS": "either MSE 477/CHEM 441,  MSE 542/CHEM 541, or both CHEM E 545/MSE 545/CHEM 545 and CHEM E 546/MSE 546/CHEM 546",
-        "C_NAME": "ig Data for Materials Science (3)"
+        "C_NAME": "Big Data for Materials Science (3)"
     },
     "MSE 545": {
         "REQS": "NONE",
@@ -3055,7 +3055,7 @@
     },
     "MSE 547": {
         "REQS": "CHEM E 545 and CHEM E 546; recommended: prior exposure to data science fundamentals and software development",
-        "C_NAME": "ata Science Capstone Project (3)"
+        "C_NAME": "Data Science Capstone Project (3)"
     },
     "MSE 550": {
         "REQS": "NONE",
@@ -3071,7 +3071,7 @@
     },
     "MSE 561": {
         "REQS": "CHEM 455 (or equivalent), or permission of instructor ; recommended: a course in physical and/or quantum chemistry",
-        "C_NAME": "ntroduction to Quantum Information Science and Engineering for Chemists and Materials Scientists (3)"
+        "C_NAME": "Introduction to Quantum Information Science and Engineering for Chemists and Materials Scientists (3)"
     },
     "MSE 562": {
         "REQS": "NONE",
@@ -3079,7 +3079,7 @@
     },
     "MSE 563": {
         "REQS": "MSE 475 or M E 450 or equivalent by permission of instructor",
-        "C_NAME": "dvanced Composites: Design and Manufacturing (3)"
+        "C_NAME": "Advanced Composites: Design and Manufacturing (3)"
     },
     "MSE 565": {
         "REQS": "NONE",
@@ -3099,7 +3099,7 @@
     },
     "MSE 571": {
         "REQS": "MSE 570",
-        "C_NAME": "raduate Tutorial in Materials Science and Engineering II (2)"
+        "C_NAME": "Graduate Tutorial in Materials Science and Engineering II (2)"
     },
     "MSE 576": {
         "REQS": "NONE",
@@ -3131,7 +3131,7 @@
     },
     "MSE 599": {
         "REQS": "permission of instructor",
-        "C_NAME": "pecial Topics in Materials Science (1-5, max. 15)"
+        "C_NAME": "Special Topics in Materials Science (1-5, max. 15)"
     },
     "MSE 600": {
         "REQS": "NONE",
@@ -3151,7 +3151,7 @@
     },
     "MCB 509": {
         "REQS": "MCB 508",
-        "C_NAME": "eaching College Science: Classroom Experience (2)"
+        "C_NAME": "Teaching College Science: Classroom Experience (2)"
     },
     "MCB 511": {
         "REQS": "NONE",
@@ -3223,11 +3223,11 @@
     },
     "MCB 560": {
         "REQS": "permission of instructor and doctoral candidacy",
-        "C_NAME": "iotechnology Externship (2-12, max. 12)"
+        "C_NAME": "Biotechnology Externship (2-12, max. 12)"
     },
     "MCB 580": {
         "REQS": "permission of instructor",
-        "C_NAME": "eaching Practicum in Molecular and Cellular Biology (2, max. 4)"
+        "C_NAME": "Teaching Practicum in Molecular and Cellular Biology (2, max. 4)"
     },
     "MCB 599": {
         "REQS": "NONE",
